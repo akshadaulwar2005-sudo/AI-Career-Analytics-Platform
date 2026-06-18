@@ -1,0 +1,196 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Career Roadmap Generator</title>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+rel="stylesheet">
+
+<style>
+
+body{
+    font-family:'Poppins',sans-serif;
+    background:linear-gradient(135deg,#0f172a,#1e293b);
+    min-height:100vh;
+    color:white;
+}
+
+.glass-card{
+    background:rgba(255,255,255,0.08);
+    backdrop-filter:blur(12px);
+    border-radius:20px;
+    padding:30px;
+    border:1px solid rgba(255,255,255,0.1);
+    box-shadow:0 8px 32px rgba(0,0,0,0.3);
+}
+
+.title{
+    text-align:center;
+    font-weight:700;
+    margin-bottom:20px;
+}
+
+.step-card{
+    background:rgba(255,255,255,0.08);
+    padding:20px;
+    border-radius:15px;
+    margin-bottom:15px;
+    transition:0.3s;
+}
+
+.step-card:hover{
+    transform:translateX(10px);
+}
+
+.badge-skill{
+    background:#2563eb;
+    padding:8px 15px;
+    border-radius:20px;
+    margin:5px;
+}
+
+.salary-box{
+    background:linear-gradient(45deg,#22c55e,#16a34a);
+    padding:20px;
+    border-radius:15px;
+    text-align:center;
+}
+
+.generate-btn{
+    width:100%;
+    background:#2563eb;
+    border:none;
+    padding:12px;
+    border-radius:10px;
+    color:white;
+    font-weight:600;
+}
+
+.generate-btn:hover{
+    background:#1d4ed8;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container py-5">
+
+<div class="glass-card">
+
+<h1 class="title">
+🚀 AI Career Roadmap Generator
+</h1>
+
+<form method="POST">
+
+<select class="form-control mb-3"
+name="role">
+
+<option>AI Engineer</option>
+<option>Data Scientist</option>
+<option>Frontend Developer</option>
+<option>Backend Developer</option>
+<option>Cloud Engineer</option>
+
+</select>
+
+<button class="generate-btn">
+Generate Roadmap
+</button>
+
+</form>
+
+{% if roadmap %}
+
+<hr>
+
+<h2 class="mt-4">
+🎯 Target Role: {{ target_role }}
+</h2>
+
+<div class="salary-box my-4">
+
+<h3>Expected Salary Range</h3>
+
+<h2>₹8 LPA - ₹35+ LPA</h2>
+
+</div>
+
+<h3>📈 Learning Progress</h3>
+
+<div class="progress mb-4">
+
+<div class="progress-bar progress-bar-striped progress-bar-animated"
+style="width:10%">
+10%
+</div>
+
+</div>
+
+<h3>🛣 Roadmap Steps</h3>
+
+{% for step in roadmap %}
+
+<div class="step-card">
+
+<h5>
+Step {{ loop.index }}
+</h5>
+
+<p>
+{{ step }}
+</p>
+
+</div>
+
+{% endfor %}
+
+<h3 class="mt-4">
+🔥 Recommended Skills
+</h3>
+
+<span class="badge-skill">Python</span>
+<span class="badge-skill">SQL</span>
+<span class="badge-skill">Machine Learning</span>
+<span class="badge-skill">Docker</span>
+<span class="badge-skill">AWS</span>
+
+<div class="mt-4">
+
+<a href="/learning"
+class="btn btn-warning">
+
+📚 Learning Resources
+
+</a>
+
+<a href="/"
+class="btn btn-light">
+
+⬅ Back Home
+
+</a>
+
+</div>
+
+{% endif %}
+
+</div>
+
+</div>
+
+</body>
+</html>
+```

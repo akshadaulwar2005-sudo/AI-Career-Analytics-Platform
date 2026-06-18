@@ -1,0 +1,501 @@
+job_id,role,company,company_type,city,state,degree,graduation_year,skills,primary_skill,experience_required,internship_experience,remote,work_type,salary_lpa,stipend_if_intern,selection_rounds,aptitude_test,coding_test,interview_count,offer_made
+JOB_1,Data Scientist,Accenture,Product-Based,Bangalore,Uttar Pradesh,M.Tech,2024,"Linux, Excel, AWS",Java,0,1,0,Full-Time,8.25,8000,4,1,1,3,1
+JOB_2,Business Analyst,Accenture,Startup,Delhi,Telangana,BCA,2023,"Power BI, SQL, Java",Machine Learning,0,1,1,Internship,7.75,15000,5,0,1,3,1
+JOB_3,Cybersecurity Analyst,Startup,Product-Based,Delhi,Tamil Nadu,B.Tech,2025,"Power BI, Python, Machine Learning",Linux,0,0,1,Internship,8.66,12000,3,0,0,1,1
+JOB_4,Data Scientist,TCS,Startup,Hyderabad,Karnataka,B.Sc,2024,"Python, Linux, Java",Machine Learning,0,1,0,Internship,9.59,12000,2,0,0,1,0
+JOB_5,Software Engineer,Infosys,Product-Based,Bangalore,Telangana,M.Tech,2024,"Machine Learning, Linux, Python",Python,1,0,0,Full-Time,3.78,8000,5,1,0,1,1
+JOB_6,Cloud Engineer,Deloitte,Startup,Noida,Karnataka,B.Com,2023,"Machine Learning, SQL, Python",Power BI,1,0,0,Full-Time,5.78,15000,3,0,1,2,1
+JOB_7,Cybersecurity Analyst,Capgemini,Service-Based,Mumbai,Delhi,B.Sc,2024,"Java, AWS, Machine Learning",Power BI,0,0,0,Full-Time,5.29,0,5,0,0,3,0
+JOB_8,Software Engineer,Capgemini,Product-Based,Pune,Telangana,B.Tech,2024,"Java, Power BI, SQL",AWS,0,1,0,Full-Time,7.33,12000,4,0,1,2,1
+JOB_9,Data Scientist,Wipro,Startup,Pune,Tamil Nadu,BCA,2025,"Java, Python, SQL",AWS,0,0,1,Internship,9.61,10000,5,1,1,3,1
+JOB_10,AI/ML Engineer,Startup,Service-Based,Delhi,Telangana,B.Tech,2023,"Machine Learning, Python, SQL",SQL,1,0,0,Internship,10.25,8000,4,1,1,2,1
+JOB_11,Business Analyst,TCS,Product-Based,Bangalore,Uttar Pradesh,MCA,2024,"Python, Linux, Power BI",SQL,1,0,1,Internship,3.1,0,5,0,0,1,0
+JOB_12,AI/ML Engineer,Capgemini,MNC,Chennai,West Bengal,B.Com,2023,"AWS, Linux, SQL",SQL,0,0,0,Internship,11.82,15000,2,0,0,3,0
+JOB_13,Data Analyst,Infosys,MNC,Chennai,Uttar Pradesh,B.Sc,2024,"AWS, Excel, Python",Java,0,0,0,Full-Time,7.16,8000,2,0,1,2,0
+JOB_14,Cloud Engineer,Wipro,Startup,Hyderabad,Maharashtra,B.Com,2025,"SQL, Power BI, Python",Java,1,1,1,Internship,6.06,0,5,0,1,1,0
+JOB_15,Web Developer,Startup,MNC,Delhi,Delhi,BCA,2023,"SQL, Python, Power BI",SQL,0,1,0,Full-Time,3.91,12000,4,1,1,2,1
+JOB_16,Data Scientist,Infosys,Startup,Mumbai,Uttar Pradesh,B.Com,2023,"AWS, Excel, Power BI",Power BI,0,1,0,Full-Time,7.1,15000,3,0,1,3,0
+JOB_17,Web Developer,Deloitte,Product-Based,Pune,Karnataka,B.Com,2023,"SQL, Python, Java",Java,0,1,0,Full-Time,4.52,8000,5,0,0,3,0
+JOB_18,Cloud Engineer,Cognizant,Service-Based,Mumbai,Karnataka,B.Tech,2024,"AWS, Excel, SQL",AWS,0,1,0,Full-Time,7.62,10000,5,1,0,1,1
+JOB_19,Data Analyst,TCS,Startup,Mumbai,Tamil Nadu,B.Tech,2023,"AWS, Java, Excel",Power BI,0,1,1,Internship,5.16,0,4,0,0,3,1
+JOB_20,Software Engineer,Accenture,Service-Based,Hyderabad,Telangana,B.Tech,2025,"Power BI, Linux, Java",Power BI,1,1,1,Full-Time,4.46,12000,5,0,1,3,1
+JOB_21,AI/ML Engineer,Accenture,Startup,Chennai,Delhi,M.Tech,2025,"SQL, Machine Learning, Java",Python,0,0,1,Full-Time,9.67,10000,3,1,1,1,1
+JOB_22,Data Scientist,TCS,MNC,Delhi,West Bengal,BCA,2024,"SQL, Excel, Linux",SQL,0,1,1,Internship,6.84,10000,5,0,0,3,0
+JOB_23,Data Scientist,Cognizant,Product-Based,Kolkata,Uttar Pradesh,MCA,2025,"Machine Learning, Excel, Linux",Linux,1,1,0,Internship,7.75,15000,2,0,1,2,0
+JOB_24,Cloud Engineer,Deloitte,Product-Based,Mumbai,Uttar Pradesh,M.Tech,2023,"Excel, Power BI, Machine Learning",SQL,0,1,0,Internship,6.83,15000,2,0,1,3,1
+JOB_25,Cloud Engineer,TCS,Startup,Bangalore,Uttar Pradesh,M.Tech,2024,"Excel, Linux, Power BI",Machine Learning,1,0,0,Full-Time,7.28,8000,5,0,1,3,1
+JOB_26,Data Scientist,Wipro,MNC,Chennai,Maharashtra,BCA,2024,"SQL, Power BI, AWS",Python,0,0,0,Internship,10.71,15000,5,0,1,3,0
+JOB_27,Data Scientist,Deloitte,Product-Based,Chennai,Karnataka,M.Tech,2024,"SQL, Machine Learning, Power BI",AWS,1,0,0,Internship,7.2,12000,5,1,1,2,1
+JOB_28,AI/ML Engineer,Infosys,Startup,Kolkata,Telangana,BCA,2023,"Python, Java, AWS",Power BI,1,0,0,Full-Time,9.09,12000,2,1,0,3,1
+JOB_29,Cloud Engineer,Cognizant,Product-Based,Bangalore,Maharashtra,B.Tech,2024,"AWS, Machine Learning, SQL",SQL,0,1,0,Internship,7.96,0,3,0,0,2,1
+JOB_30,Cybersecurity Analyst,TCS,Startup,Noida,Tamil Nadu,B.Sc,2024,"AWS, SQL, Excel",Linux,0,0,0,Full-Time,5.23,0,3,0,1,3,0
+JOB_31,Cloud Engineer,Capgemini,MNC,Kolkata,Maharashtra,B.Com,2024,"Linux, Python, Power BI",AWS,1,1,1,Full-Time,8.04,10000,4,0,0,1,1
+JOB_32,Data Analyst,Cognizant,MNC,Noida,Telangana,B.Tech,2024,"AWS, Python, Power BI",Python,0,0,0,Internship,3.85,0,3,0,1,2,0
+JOB_33,Cloud Engineer,Cognizant,MNC,Bangalore,Maharashtra,MCA,2023,"Machine Learning, Excel, Power BI",Linux,0,0,0,Full-Time,5.33,8000,5,1,1,1,1
+JOB_34,Cloud Engineer,Deloitte,Product-Based,Noida,Tamil Nadu,BCA,2023,"SQL, Excel, Linux",AWS,0,1,0,Full-Time,9.74,12000,2,1,1,1,1
+JOB_35,AI/ML Engineer,Startup,Product-Based,Kolkata,Maharashtra,B.Tech,2024,"Power BI, AWS, SQL",Excel,0,1,1,Full-Time,11.79,12000,5,1,0,2,0
+JOB_36,Data Analyst,Startup,MNC,Chennai,Tamil Nadu,B.Com,2025,"Power BI, Machine Learning, AWS",Python,0,1,0,Full-Time,7.04,0,2,1,1,1,1
+JOB_37,AI/ML Engineer,Deloitte,Product-Based,Mumbai,Telangana,B.Sc,2025,"Python, AWS, Excel",Machine Learning,0,0,1,Internship,7.83,12000,4,1,1,2,1
+JOB_38,Cybersecurity Analyst,TCS,MNC,Chennai,Karnataka,MCA,2025,"Java, SQL, Excel",Excel,0,0,1,Internship,5.49,10000,5,1,0,2,0
+JOB_39,Cloud Engineer,Deloitte,Product-Based,Chennai,Tamil Nadu,B.Sc,2025,"Java, AWS, SQL",Machine Learning,0,0,0,Internship,8.42,15000,5,0,0,1,0
+JOB_40,Data Scientist,Startup,Product-Based,Bangalore,Karnataka,B.Tech,2024,"Machine Learning, AWS, Java",Python,0,0,1,Internship,8.64,12000,4,1,1,2,1
+JOB_41,Cybersecurity Analyst,Cognizant,Startup,Mumbai,Karnataka,B.Tech,2024,"SQL, AWS, Java",AWS,0,0,1,Internship,5.61,0,5,1,1,3,1
+JOB_42,Data Scientist,Capgemini,Startup,Bangalore,West Bengal,B.Sc,2024,"Python, Java, AWS",Python,1,0,0,Full-Time,8.97,0,4,1,1,1,0
+JOB_43,Cybersecurity Analyst,Accenture,Service-Based,Kolkata,West Bengal,M.Tech,2023,"Java, Excel, Python",Machine Learning,0,0,1,Internship,5.17,8000,5,0,0,1,0
+JOB_44,Data Scientist,Capgemini,Service-Based,Kolkata,Tamil Nadu,B.Tech,2023,"AWS, Java, Python",Excel,1,0,0,Internship,11.46,8000,2,1,0,3,0
+JOB_45,Business Analyst,Cognizant,Product-Based,Delhi,Uttar Pradesh,M.Tech,2025,"Python, Power BI, SQL",Java,0,1,1,Internship,4.29,15000,2,0,1,3,0
+JOB_46,Data Scientist,Cognizant,Product-Based,Noida,West Bengal,BCA,2024,"Power BI, Excel, Python",Java,1,1,0,Full-Time,9.98,0,2,0,0,1,0
+JOB_47,Business Analyst,Startup,Product-Based,Noida,West Bengal,B.Sc,2025,"AWS, Machine Learning, SQL",SQL,0,0,0,Internship,4.56,12000,5,1,1,3,0
+JOB_48,Data Analyst,Startup,MNC,Delhi,West Bengal,B.Com,2023,"Linux, Java, AWS",Machine Learning,0,1,0,Full-Time,5.6,0,2,0,0,1,1
+JOB_49,Business Analyst,Wipro,Service-Based,Noida,Delhi,B.Sc,2024,"Machine Learning, Excel, Power BI",SQL,1,0,1,Internship,5.73,12000,5,1,0,2,1
+JOB_50,Data Scientist,Accenture,Service-Based,Chennai,West Bengal,M.Tech,2024,"Python, Excel, SQL",Python,1,0,0,Full-Time,7.11,10000,2,0,1,3,1
+JOB_51,Cybersecurity Analyst,Infosys,Product-Based,Hyderabad,Uttar Pradesh,MCA,2024,"Machine Learning, Java, Python",Power BI,1,0,0,Full-Time,9.85,8000,5,0,1,2,1
+JOB_52,Data Analyst,TCS,MNC,Chennai,Tamil Nadu,B.Tech,2025,"Power BI, AWS, Linux",Linux,0,0,0,Full-Time,6.88,15000,3,1,0,1,1
+JOB_53,AI/ML Engineer,Deloitte,Startup,Kolkata,Uttar Pradesh,B.Com,2023,"Machine Learning, Java, Power BI",Machine Learning,1,0,0,Full-Time,11.64,8000,3,0,1,2,1
+JOB_54,Business Analyst,Capgemini,Startup,Delhi,Uttar Pradesh,B.Tech,2024,"AWS, Excel, Machine Learning",Machine Learning,0,1,1,Internship,7.47,10000,4,0,1,3,0
+JOB_55,Business Analyst,Startup,Startup,Kolkata,Maharashtra,MCA,2025,"Linux, Python, Java",Excel,1,1,1,Internship,5.99,12000,3,1,1,3,1
+JOB_56,Business Analyst,Accenture,MNC,Chennai,Uttar Pradesh,M.Tech,2024,"Excel, Java, Machine Learning",SQL,1,1,0,Internship,7.61,8000,5,0,1,1,1
+JOB_57,Cybersecurity Analyst,Startup,Startup,Mumbai,Maharashtra,BCA,2024,"Linux, Machine Learning, AWS",AWS,0,1,1,Internship,5.44,15000,3,0,0,2,0
+JOB_58,Business Analyst,Infosys,Product-Based,Noida,Telangana,B.Tech,2024,"Python, Power BI, AWS",SQL,0,0,0,Internship,3.98,10000,4,0,0,2,1
+JOB_59,Web Developer,Infosys,Startup,Chennai,Delhi,B.Com,2025,"Power BI, AWS, Python",Linux,0,0,1,Full-Time,3.23,10000,2,0,1,3,1
+JOB_60,Data Analyst,Wipro,Startup,Hyderabad,Delhi,B.Com,2025,"Excel, SQL, Machine Learning",Linux,0,0,1,Full-Time,4.63,8000,2,0,1,2,0
+JOB_61,Data Analyst,Startup,Startup,Noida,Tamil Nadu,M.Tech,2025,"Java, SQL, Power BI",Power BI,0,0,0,Full-Time,4.94,8000,2,0,1,3,1
+JOB_62,Software Engineer,Startup,MNC,Noida,Uttar Pradesh,M.Tech,2025,"Python, AWS, Linux",AWS,0,1,0,Internship,4.36,12000,5,1,1,2,0
+JOB_63,AI/ML Engineer,Wipro,Startup,Hyderabad,Maharashtra,B.Tech,2025,"Power BI, Machine Learning, Linux",Machine Learning,1,1,1,Internship,10.97,0,5,0,1,3,0
+JOB_64,AI/ML Engineer,TCS,Startup,Mumbai,West Bengal,B.Sc,2024,"Java, Power BI, Python",AWS,0,1,0,Internship,8.14,0,5,1,1,2,1
+JOB_65,Business Analyst,Deloitte,MNC,Delhi,Delhi,M.Tech,2024,"AWS, Python, Excel",Power BI,0,1,0,Full-Time,4.4,15000,2,1,0,1,1
+JOB_66,Data Analyst,Capgemini,Startup,Bangalore,Tamil Nadu,M.Tech,2025,"SQL, Machine Learning, Java",SQL,0,1,0,Full-Time,5.71,15000,5,1,0,3,0
+JOB_67,Software Engineer,Deloitte,Service-Based,Kolkata,Maharashtra,B.Tech,2023,"Linux, Machine Learning, Python",Java,0,1,0,Internship,3.7,10000,4,1,1,2,0
+JOB_68,Cybersecurity Analyst,Deloitte,Startup,Noida,West Bengal,B.Com,2024,"Excel, Power BI, Python",Linux,0,0,0,Full-Time,9.01,8000,4,0,1,3,0
+JOB_69,AI/ML Engineer,Wipro,Product-Based,Chennai,Maharashtra,M.Tech,2023,"SQL, Java, Linux",Power BI,0,0,1,Internship,6.45,12000,5,0,1,2,0
+JOB_70,Web Developer,Capgemini,Startup,Hyderabad,Tamil Nadu,B.Tech,2025,"Power BI, AWS, SQL",Linux,1,1,0,Full-Time,7.93,12000,4,0,0,1,1
+JOB_71,Business Analyst,Capgemini,Service-Based,Kolkata,Karnataka,MCA,2025,"Excel, Java, AWS",Java,0,0,0,Internship,6.86,10000,3,1,1,2,1
+JOB_72,AI/ML Engineer,Deloitte,Service-Based,Chennai,Tamil Nadu,BCA,2025,"Excel, Linux, Java",Machine Learning,0,0,0,Internship,7.19,0,3,1,1,1,0
+JOB_73,AI/ML Engineer,TCS,Product-Based,Noida,Maharashtra,B.Tech,2023,"Power BI, SQL, Java",Machine Learning,0,1,1,Full-Time,6.03,15000,4,1,1,2,0
+JOB_74,Web Developer,Capgemini,Product-Based,Chennai,Telangana,M.Tech,2025,"Java, Excel, Python",SQL,1,0,1,Internship,7.08,0,4,1,1,1,0
+JOB_75,Data Analyst,TCS,Service-Based,Pune,Telangana,MCA,2024,"AWS, Machine Learning, Power BI",Linux,1,1,0,Internship,6.53,15000,5,1,1,1,1
+JOB_76,Cloud Engineer,Deloitte,Product-Based,Bangalore,Telangana,B.Tech,2025,"Machine Learning, Linux, Power BI",AWS,0,1,0,Full-Time,8.65,15000,3,1,1,3,0
+JOB_77,Cybersecurity Analyst,Startup,MNC,Delhi,Tamil Nadu,BCA,2023,"Excel, Python, AWS",SQL,0,1,1,Internship,8.86,8000,5,1,0,2,0
+JOB_78,Cloud Engineer,Startup,MNC,Kolkata,Tamil Nadu,B.Sc,2025,"SQL, Power BI, Linux",Python,1,1,1,Internship,5.37,8000,3,1,0,1,0
+JOB_79,Web Developer,Accenture,Startup,Mumbai,Uttar Pradesh,BCA,2023,"SQL, Java, Machine Learning",Excel,1,0,0,Internship,4.79,15000,2,0,1,3,0
+JOB_80,Cybersecurity Analyst,Startup,Product-Based,Hyderabad,Delhi,B.Sc,2025,"Excel, Power BI, Python",Python,0,1,1,Internship,5.58,15000,5,0,1,2,1
+JOB_81,Software Engineer,Capgemini,MNC,Delhi,Telangana,M.Tech,2024,"Excel, Java, AWS",SQL,0,1,0,Full-Time,7.32,15000,2,0,0,3,0
+JOB_82,Business Analyst,Capgemini,Product-Based,Delhi,Telangana,B.Com,2024,"Machine Learning, Excel, Python",Java,0,0,1,Full-Time,6.12,15000,2,0,0,2,0
+JOB_83,Cloud Engineer,TCS,MNC,Hyderabad,Tamil Nadu,MCA,2024,"AWS, SQL, Python",SQL,0,1,1,Full-Time,6.65,15000,4,0,1,1,1
+JOB_84,Web Developer,Infosys,MNC,Kolkata,Telangana,BCA,2023,"Power BI, SQL, Machine Learning",Excel,1,0,1,Internship,3.32,12000,5,0,1,2,1
+JOB_85,Cybersecurity Analyst,Capgemini,Product-Based,Mumbai,West Bengal,BCA,2025,"Power BI, Excel, Python",Power BI,0,1,0,Internship,6.55,0,3,1,1,2,1
+JOB_86,Cloud Engineer,Cognizant,MNC,Pune,Tamil Nadu,B.Tech,2023,"Java, SQL, Power BI",SQL,0,0,0,Internship,6.63,8000,5,0,1,1,0
+JOB_87,Data Scientist,Accenture,Product-Based,Mumbai,Uttar Pradesh,MCA,2023,"Machine Learning, Power BI, Java",Power BI,0,0,1,Internship,10.38,8000,5,0,0,2,0
+JOB_88,Cloud Engineer,Startup,Startup,Pune,Karnataka,B.Tech,2024,"Linux, Excel, AWS",Linux,0,0,1,Internship,8.19,0,4,1,1,1,0
+JOB_89,Data Analyst,Infosys,Startup,Noida,Delhi,B.Com,2024,"Java, SQL, AWS",Power BI,0,0,0,Internship,7.44,12000,5,0,0,2,1
+JOB_90,Web Developer,Infosys,MNC,Noida,West Bengal,M.Tech,2023,"Java, Power BI, AWS",Excel,0,0,1,Full-Time,5.36,15000,4,1,1,1,1
+JOB_91,Cloud Engineer,Startup,Startup,Delhi,Maharashtra,M.Tech,2023,"Power BI, Excel, Java",Excel,1,0,1,Full-Time,5.6,10000,2,0,1,1,1
+JOB_92,Data Analyst,Accenture,Service-Based,Delhi,Delhi,M.Tech,2024,"Machine Learning, Excel, Java",Java,1,0,1,Internship,6.57,8000,3,0,1,2,1
+JOB_93,Business Analyst,Cognizant,Startup,Mumbai,Delhi,M.Tech,2023,"Linux, Python, SQL",Python,0,1,0,Full-Time,6.8,12000,5,0,0,3,0
+JOB_94,Cloud Engineer,Cognizant,MNC,Chennai,West Bengal,B.Tech,2024,"Excel, Python, AWS",Power BI,0,1,1,Full-Time,7.81,8000,4,1,0,2,0
+JOB_95,AI/ML Engineer,Cognizant,MNC,Kolkata,Delhi,M.Tech,2025,"Java, AWS, Machine Learning",SQL,0,1,0,Full-Time,10.63,12000,3,1,1,1,0
+JOB_96,Data Analyst,Capgemini,Startup,Chennai,Karnataka,B.Com,2024,"Excel, Python, Machine Learning",Linux,0,0,0,Internship,5.47,10000,5,0,0,1,0
+JOB_97,Web Developer,Cognizant,Product-Based,Noida,Tamil Nadu,B.Tech,2023,"AWS, Excel, SQL",Linux,0,1,0,Internship,5.61,10000,5,0,0,2,1
+JOB_98,Business Analyst,Accenture,MNC,Delhi,West Bengal,B.Sc,2025,"Machine Learning, Linux, Power BI",Java,0,0,1,Full-Time,5.14,8000,4,0,0,1,1
+JOB_99,Data Scientist,Infosys,MNC,Mumbai,Uttar Pradesh,B.Com,2023,"Python, Machine Learning, Linux",AWS,0,1,0,Full-Time,6.15,8000,5,0,1,3,0
+JOB_100,Data Scientist,Deloitte,MNC,Delhi,Uttar Pradesh,M.Tech,2024,"AWS, Linux, SQL",AWS,1,1,0,Full-Time,6.65,10000,2,0,0,1,0
+JOB_101,Business Analyst,Wipro,Product-Based,Pune,Delhi,B.Tech,2023,"AWS, Java, Linux",Python,0,1,0,Full-Time,3.16,8000,3,0,0,3,1
+JOB_102,Software Engineer,Capgemini,Service-Based,Noida,Tamil Nadu,BCA,2023,"Python, Power BI, SQL",AWS,0,1,0,Internship,6.18,8000,2,1,1,1,1
+JOB_103,Business Analyst,Deloitte,MNC,Hyderabad,Karnataka,M.Tech,2024,"Linux, Machine Learning, AWS",Java,0,0,0,Internship,4.57,10000,2,0,0,1,1
+JOB_104,Web Developer,Capgemini,Startup,Noida,Telangana,B.Sc,2024,"Excel, Java, SQL",AWS,0,1,0,Internship,5.54,12000,2,1,0,1,0
+JOB_105,Data Analyst,Infosys,MNC,Pune,Delhi,B.Tech,2023,"Java, Python, Machine Learning",Java,1,1,0,Internship,7.54,0,3,1,0,3,1
+JOB_106,Business Analyst,Wipro,Product-Based,Delhi,West Bengal,B.Sc,2024,"SQL, Linux, Excel",Machine Learning,0,1,1,Internship,4.25,15000,3,0,0,2,0
+JOB_107,Data Scientist,Deloitte,Product-Based,Pune,Maharashtra,B.Sc,2023,"Power BI, Java, Excel",Java,0,0,1,Full-Time,8.46,12000,2,0,1,1,1
+JOB_108,Data Scientist,Capgemini,MNC,Pune,Tamil Nadu,MCA,2025,"SQL, Linux, Java",Python,1,0,0,Internship,10.53,12000,4,1,1,1,0
+JOB_109,Cloud Engineer,Capgemini,MNC,Kolkata,West Bengal,B.Sc,2025,"AWS, Linux, Power BI",Python,0,0,1,Internship,6.14,10000,5,1,0,2,0
+JOB_110,Data Analyst,Cognizant,Product-Based,Mumbai,Tamil Nadu,BCA,2023,"Python, Java, AWS",Power BI,1,0,0,Full-Time,3.38,8000,4,0,1,3,1
+JOB_111,AI/ML Engineer,Infosys,MNC,Delhi,Uttar Pradesh,BCA,2023,"Excel, Machine Learning, SQL",Machine Learning,1,0,1,Full-Time,7.74,10000,4,0,1,2,0
+JOB_112,Data Scientist,Cognizant,Service-Based,Pune,Maharashtra,MCA,2023,"SQL, AWS, Python",Excel,0,1,1,Full-Time,6.97,0,2,0,1,3,1
+JOB_113,Cloud Engineer,Deloitte,Product-Based,Bangalore,Maharashtra,B.Com,2023,"Machine Learning, Excel, Power BI",SQL,0,1,0,Internship,9.65,0,2,1,0,3,0
+JOB_114,Business Analyst,Infosys,Startup,Bangalore,Uttar Pradesh,B.Com,2024,"Excel, Python, SQL",AWS,0,1,1,Full-Time,7.04,15000,4,0,1,1,1
+JOB_115,Data Scientist,Startup,Service-Based,Mumbai,Maharashtra,B.Com,2025,"SQL, Java, AWS",SQL,0,0,1,Internship,9.8,12000,5,1,1,1,0
+JOB_116,Cloud Engineer,TCS,Service-Based,Hyderabad,Uttar Pradesh,B.Com,2024,"Power BI, Machine Learning, Linux",Excel,0,0,1,Internship,9.36,0,5,1,0,1,0
+JOB_117,AI/ML Engineer,Startup,MNC,Bangalore,Uttar Pradesh,B.Com,2025,"Java, Python, Machine Learning",Machine Learning,0,0,1,Full-Time,10.82,12000,2,0,0,2,1
+JOB_118,Cybersecurity Analyst,Wipro,Service-Based,Kolkata,Delhi,BCA,2024,"Linux, Machine Learning, Python",Python,1,1,1,Internship,5.93,12000,3,0,1,3,1
+JOB_119,Software Engineer,Infosys,Startup,Mumbai,Uttar Pradesh,MCA,2025,"SQL, Linux, AWS",Python,0,0,0,Internship,7.46,12000,5,0,0,1,0
+JOB_120,Web Developer,Capgemini,Product-Based,Hyderabad,Tamil Nadu,B.Tech,2025,"Power BI, Machine Learning, AWS",Power BI,0,1,0,Full-Time,5.7,15000,2,0,0,1,0
+JOB_121,Data Scientist,TCS,Startup,Mumbai,Telangana,M.Tech,2024,"Excel, Linux, AWS",Linux,0,0,1,Internship,10.84,12000,4,1,0,1,0
+JOB_122,Web Developer,Infosys,Product-Based,Chennai,Delhi,B.Tech,2023,"SQL, AWS, Java",Java,1,0,0,Full-Time,7.48,10000,3,1,1,1,1
+JOB_123,Cybersecurity Analyst,Infosys,MNC,Noida,Tamil Nadu,B.Sc,2023,"Linux, Machine Learning, AWS",Machine Learning,0,1,1,Internship,6.59,8000,2,0,1,1,0
+JOB_124,Business Analyst,Capgemini,Product-Based,Mumbai,Delhi,B.Tech,2025,"SQL, Java, Excel",Power BI,1,0,0,Internship,3.55,12000,5,1,1,1,1
+JOB_125,Cloud Engineer,Infosys,Service-Based,Mumbai,Tamil Nadu,B.Tech,2025,"Power BI, SQL, Java",Java,0,0,1,Internship,6.14,10000,3,1,1,3,1
+JOB_126,Web Developer,Deloitte,Service-Based,Kolkata,Karnataka,B.Tech,2025,"Machine Learning, Linux, SQL",AWS,0,0,1,Internship,5.14,15000,4,1,1,2,1
+JOB_127,Web Developer,Cognizant,Startup,Delhi,Telangana,M.Tech,2024,"Machine Learning, Linux, Java",Java,0,0,0,Internship,7.09,10000,3,0,0,3,1
+JOB_128,Cybersecurity Analyst,Cognizant,Startup,Delhi,Delhi,B.Tech,2024,"AWS, Power BI, Excel",Power BI,1,1,0,Full-Time,9.3,12000,5,1,0,1,0
+JOB_129,Data Scientist,Cognizant,MNC,Delhi,Tamil Nadu,B.Sc,2025,"Java, Machine Learning, Power BI",Linux,0,1,0,Internship,6.04,10000,3,0,0,2,1
+JOB_130,AI/ML Engineer,Accenture,Startup,Bangalore,Maharashtra,B.Tech,2023,"Python, Java, SQL",Linux,1,1,1,Full-Time,9.06,15000,3,0,1,3,0
+JOB_131,AI/ML Engineer,Capgemini,Product-Based,Delhi,Tamil Nadu,MCA,2024,"SQL, AWS, Python",Java,0,0,0,Full-Time,8.5,8000,3,0,1,3,0
+JOB_132,Business Analyst,Wipro,Startup,Pune,Telangana,MCA,2025,"SQL, Python, AWS",Python,0,0,0,Internship,4.11,12000,5,0,0,3,1
+JOB_133,Web Developer,Deloitte,Startup,Kolkata,Telangana,MCA,2023,"SQL, Linux, Java",Python,1,0,1,Internship,3.6,15000,4,0,1,1,1
+JOB_134,Web Developer,Wipro,Startup,Chennai,Uttar Pradesh,B.Tech,2025,"SQL, Excel, Machine Learning",Power BI,0,1,1,Full-Time,4.69,15000,3,0,0,1,1
+JOB_135,Web Developer,Accenture,Product-Based,Pune,Telangana,B.Sc,2024,"Linux, Machine Learning, AWS",Excel,0,1,1,Internship,7.71,15000,3,1,0,2,1
+JOB_136,Business Analyst,Deloitte,Service-Based,Bangalore,Uttar Pradesh,B.Tech,2023,"Linux, Python, SQL",Excel,1,0,0,Internship,4.62,10000,3,1,0,3,0
+JOB_137,Data Analyst,Deloitte,Service-Based,Kolkata,Uttar Pradesh,B.Sc,2024,"Excel, Linux, Machine Learning",SQL,0,1,0,Internship,5.59,12000,3,1,0,2,0
+JOB_138,Data Scientist,Deloitte,Startup,Mumbai,Tamil Nadu,MCA,2025,"Java, Power BI, SQL",AWS,1,0,0,Full-Time,10.22,12000,2,1,0,2,0
+JOB_139,Cloud Engineer,Wipro,Service-Based,Hyderabad,Uttar Pradesh,B.Tech,2023,"SQL, Linux, Excel",AWS,1,1,1,Full-Time,6.82,8000,5,0,1,2,0
+JOB_140,Business Analyst,Startup,MNC,Noida,Telangana,B.Tech,2024,"SQL, Machine Learning, Java",Python,1,0,1,Internship,7.86,0,3,1,0,3,0
+JOB_141,Business Analyst,Capgemini,Startup,Kolkata,Maharashtra,B.Sc,2025,"Java, Machine Learning, SQL",Power BI,0,1,1,Full-Time,7.81,10000,5,0,1,3,1
+JOB_142,Software Engineer,Accenture,Startup,Hyderabad,West Bengal,B.Com,2023,"SQL, Power BI, Python",Power BI,0,1,0,Full-Time,4.26,10000,2,1,1,3,1
+JOB_143,Cybersecurity Analyst,Startup,Startup,Mumbai,Tamil Nadu,B.Tech,2024,"Excel, Machine Learning, Python",SQL,1,1,1,Full-Time,7.49,10000,3,0,0,3,1
+JOB_144,Cybersecurity Analyst,Wipro,Product-Based,Kolkata,West Bengal,MCA,2024,"Java, Excel, Power BI",Python,0,0,1,Internship,6.5,0,2,1,1,1,1
+JOB_145,Business Analyst,Deloitte,Product-Based,Mumbai,West Bengal,MCA,2025,"SQL, Linux, Excel",Linux,0,0,0,Full-Time,4.42,0,3,0,1,3,0
+JOB_146,Data Analyst,TCS,Product-Based,Kolkata,Maharashtra,MCA,2025,"Machine Learning, Linux, SQL",Linux,0,1,1,Internship,3.18,12000,5,0,1,1,0
+JOB_147,Software Engineer,Wipro,Product-Based,Mumbai,Delhi,B.Sc,2024,"Python, Java, Power BI",Java,0,1,0,Full-Time,6.05,12000,4,1,1,1,0
+JOB_148,Cloud Engineer,TCS,Product-Based,Kolkata,Karnataka,MCA,2024,"Java, Excel, SQL",Machine Learning,0,0,0,Full-Time,7.51,8000,3,1,0,2,1
+JOB_149,Cloud Engineer,Wipro,Product-Based,Chennai,Delhi,B.Com,2025,"Python, Java, Linux",Machine Learning,0,0,0,Internship,5.26,8000,3,0,0,1,1
+JOB_150,Software Engineer,Capgemini,Service-Based,Bangalore,West Bengal,B.Tech,2024,"Power BI, SQL, Machine Learning",Java,0,0,1,Full-Time,4.39,12000,4,1,1,1,1
+JOB_151,Data Scientist,Accenture,Service-Based,Kolkata,Maharashtra,B.Com,2023,"Python, SQL, Excel",Linux,0,0,1,Internship,11.45,8000,4,0,1,1,0
+JOB_152,Cybersecurity Analyst,Accenture,Product-Based,Noida,Karnataka,M.Tech,2023,"Excel, Java, Linux",AWS,1,0,0,Internship,6.2,0,3,1,1,3,0
+JOB_153,Data Analyst,Wipro,Product-Based,Bangalore,Uttar Pradesh,B.Com,2025,"Linux, Python, AWS",Linux,1,1,0,Internship,3.72,15000,2,1,1,3,0
+JOB_154,Data Scientist,Infosys,Product-Based,Kolkata,West Bengal,MCA,2025,"Machine Learning, SQL, Java",AWS,0,0,1,Full-Time,8.94,0,4,1,0,1,1
+JOB_155,Business Analyst,Cognizant,Startup,Hyderabad,Maharashtra,B.Com,2023,"Machine Learning, Linux, Excel",Java,0,1,0,Internship,7.93,12000,4,1,1,3,0
+JOB_156,Cloud Engineer,Wipro,Product-Based,Hyderabad,Delhi,BCA,2025,"SQL, Excel, AWS",AWS,0,1,0,Full-Time,6.21,12000,3,0,1,2,0
+JOB_157,Web Developer,Wipro,Product-Based,Mumbai,Telangana,BCA,2023,"Excel, Power BI, Machine Learning",Excel,1,0,0,Internship,6.36,8000,3,1,1,3,0
+JOB_158,Software Engineer,Cognizant,Product-Based,Mumbai,Telangana,MCA,2024,"Java, Machine Learning, Linux",Python,0,1,1,Full-Time,6.81,12000,2,1,1,3,1
+JOB_159,Cloud Engineer,Cognizant,Service-Based,Pune,Delhi,M.Tech,2025,"Java, Python, Excel",Python,0,0,1,Full-Time,6.19,15000,3,1,1,1,1
+JOB_160,AI/ML Engineer,Deloitte,Product-Based,Noida,Karnataka,B.Tech,2023,"Linux, Machine Learning, SQL",Java,0,1,1,Full-Time,10.37,15000,3,1,1,2,1
+JOB_161,Cybersecurity Analyst,Deloitte,MNC,Chennai,Delhi,B.Com,2025,"SQL, Java, AWS",AWS,1,1,0,Full-Time,6.84,8000,5,0,1,3,1
+JOB_162,Data Analyst,Cognizant,Startup,Mumbai,Uttar Pradesh,B.Tech,2024,"Python, Linux, Machine Learning",Excel,0,0,1,Full-Time,6.16,8000,3,0,0,3,0
+JOB_163,Cloud Engineer,Cognizant,Startup,Kolkata,Delhi,B.Tech,2023,"Machine Learning, Power BI, Excel",Python,1,0,0,Internship,8.17,8000,3,0,1,1,1
+JOB_164,Cloud Engineer,Startup,Startup,Mumbai,Telangana,B.Com,2023,"Machine Learning, Linux, SQL",SQL,1,1,0,Full-Time,7.68,15000,3,1,0,2,0
+JOB_165,Software Engineer,Capgemini,Product-Based,Hyderabad,Telangana,B.Tech,2023,"AWS, Linux, Power BI",Machine Learning,1,0,0,Internship,3.45,8000,4,1,0,1,1
+JOB_166,Cybersecurity Analyst,Infosys,MNC,Noida,Delhi,B.Tech,2025,"Excel, Linux, Python",Java,1,1,1,Full-Time,9.18,0,2,1,0,2,0
+JOB_167,Software Engineer,Accenture,Startup,Chennai,Uttar Pradesh,M.Tech,2023,"Machine Learning, AWS, Power BI",Machine Learning,0,0,1,Internship,4.6,8000,4,1,0,2,1
+JOB_168,AI/ML Engineer,Infosys,Startup,Mumbai,Uttar Pradesh,B.Com,2024,"Java, Python, Machine Learning",AWS,0,1,1,Internship,7.12,10000,2,0,0,1,1
+JOB_169,Cybersecurity Analyst,Wipro,MNC,Pune,Delhi,B.Tech,2024,"AWS, Java, Power BI",Power BI,1,0,0,Full-Time,5.2,10000,3,0,1,2,1
+JOB_170,Web Developer,Wipro,Product-Based,Hyderabad,West Bengal,M.Tech,2023,"Java, Power BI, AWS",AWS,1,1,0,Internship,5.95,8000,3,0,0,3,0
+JOB_171,Business Analyst,Startup,MNC,Bangalore,Tamil Nadu,B.Sc,2024,"SQL, Excel, Java",Excel,1,0,1,Full-Time,6.39,10000,5,0,0,3,1
+JOB_172,Software Engineer,Infosys,Service-Based,Chennai,Karnataka,B.Com,2025,"Excel, Machine Learning, AWS",SQL,0,0,0,Internship,3.08,10000,2,0,1,1,0
+JOB_173,Data Scientist,Infosys,Startup,Kolkata,Maharashtra,B.Sc,2023,"Linux, Python, Machine Learning",SQL,1,1,0,Internship,9.07,12000,2,1,0,1,1
+JOB_174,Cloud Engineer,Deloitte,Startup,Hyderabad,Delhi,MCA,2025,"Excel, Python, Machine Learning",Java,0,1,1,Full-Time,6.13,0,5,1,1,1,0
+JOB_175,AI/ML Engineer,Infosys,MNC,Pune,Uttar Pradesh,BCA,2025,"AWS, Linux, Machine Learning",Python,1,1,0,Full-Time,9.87,15000,5,1,0,2,0
+JOB_176,Business Analyst,Startup,Startup,Delhi,Karnataka,BCA,2024,"Machine Learning, Excel, AWS",Python,0,0,1,Full-Time,3.87,12000,4,1,0,2,0
+JOB_177,Cloud Engineer,TCS,Service-Based,Noida,West Bengal,B.Tech,2023,"AWS, Java, Power BI",Linux,0,0,1,Internship,8.45,15000,2,1,0,1,1
+JOB_178,Web Developer,Deloitte,Startup,Bangalore,Delhi,B.Sc,2023,"Excel, Java, Linux",Power BI,1,0,1,Internship,4.93,0,4,0,1,3,0
+JOB_179,Software Engineer,Wipro,MNC,Bangalore,Karnataka,B.Sc,2023,"Java, SQL, AWS",Java,0,1,1,Internship,7.68,15000,2,0,1,1,0
+JOB_180,Data Scientist,Infosys,Startup,Chennai,Telangana,MCA,2023,"Machine Learning, AWS, Python",Machine Learning,1,0,1,Internship,6.83,15000,4,1,0,2,0
+JOB_181,Cybersecurity Analyst,TCS,Product-Based,Mumbai,West Bengal,B.Sc,2025,"AWS, Linux, Excel",Machine Learning,1,1,0,Internship,6.71,12000,2,1,1,1,0
+JOB_182,Data Analyst,Deloitte,MNC,Noida,West Bengal,B.Tech,2023,"Excel, AWS, Machine Learning",Machine Learning,1,1,1,Full-Time,3.57,8000,4,0,0,2,0
+JOB_183,AI/ML Engineer,Infosys,MNC,Kolkata,Karnataka,M.Tech,2023,"Machine Learning, AWS, Linux",Linux,0,1,1,Internship,11.55,10000,4,1,0,3,1
+JOB_184,AI/ML Engineer,Cognizant,Startup,Delhi,Uttar Pradesh,MCA,2024,"SQL, Excel, Power BI",AWS,1,1,0,Internship,11.26,15000,2,1,1,3,0
+JOB_185,Cybersecurity Analyst,TCS,MNC,Kolkata,Maharashtra,B.Sc,2025,"Machine Learning, Java, Power BI",Python,0,0,0,Full-Time,6.29,0,5,1,1,3,1
+JOB_186,Software Engineer,Startup,Startup,Noida,Tamil Nadu,BCA,2025,"Excel, Python, AWS",Python,0,0,1,Full-Time,6.3,0,4,1,0,1,1
+JOB_187,Data Scientist,Infosys,MNC,Kolkata,Karnataka,MCA,2024,"Machine Learning, Excel, Linux",Power BI,0,0,1,Full-Time,10.9,0,5,1,0,2,0
+JOB_188,Data Analyst,Cognizant,Service-Based,Chennai,Karnataka,MCA,2024,"Power BI, Java, Excel",AWS,0,1,0,Full-Time,5.78,15000,2,0,0,2,0
+JOB_189,Web Developer,Accenture,Service-Based,Delhi,Uttar Pradesh,M.Tech,2024,"AWS, Machine Learning, SQL",Java,0,1,0,Internship,5.65,10000,5,0,1,2,1
+JOB_190,Cloud Engineer,Accenture,Startup,Hyderabad,Tamil Nadu,BCA,2024,"Python, Power BI, Excel",Java,0,0,1,Internship,6.21,10000,2,1,1,3,0
+JOB_191,Web Developer,Wipro,MNC,Mumbai,Uttar Pradesh,MCA,2024,"Java, Excel, AWS",Python,0,1,1,Full-Time,3.47,8000,5,0,0,3,1
+JOB_192,AI/ML Engineer,Wipro,Service-Based,Noida,West Bengal,M.Tech,2024,"Linux, SQL, AWS",Excel,0,0,1,Internship,11.38,10000,3,0,1,3,1
+JOB_193,Software Engineer,Accenture,Service-Based,Chennai,Uttar Pradesh,BCA,2024,"SQL, Java, Power BI",Python,0,0,1,Internship,7.5,12000,2,1,1,3,0
+JOB_194,AI/ML Engineer,TCS,Startup,Kolkata,Uttar Pradesh,B.Com,2024,"Linux, Java, Power BI",Machine Learning,1,1,1,Full-Time,9.8,12000,5,0,1,1,0
+JOB_195,AI/ML Engineer,Startup,Service-Based,Chennai,Telangana,M.Tech,2025,"Excel, Machine Learning, AWS",Machine Learning,0,1,1,Internship,8.03,15000,4,1,0,2,0
+JOB_196,Business Analyst,Startup,Product-Based,Kolkata,Telangana,BCA,2024,"Power BI, Java, AWS",Machine Learning,0,0,1,Internship,4.75,15000,3,0,1,2,0
+JOB_197,Data Analyst,Startup,MNC,Hyderabad,Karnataka,B.Sc,2024,"Linux, Excel, SQL",Java,1,0,0,Full-Time,6.63,10000,5,1,0,2,1
+JOB_198,Cloud Engineer,Deloitte,Product-Based,Mumbai,Telangana,M.Tech,2023,"Java, Linux, SQL",Power BI,0,0,1,Internship,9.49,8000,5,1,1,2,1
+JOB_199,Software Engineer,Wipro,Startup,Mumbai,Telangana,M.Tech,2025,"Power BI, SQL, Machine Learning",Linux,1,0,0,Internship,7.44,15000,5,0,1,3,1
+JOB_200,Software Engineer,Infosys,Service-Based,Mumbai,Telangana,MCA,2024,"Linux, SQL, Machine Learning",SQL,1,1,0,Internship,6.9,15000,3,1,0,3,0
+JOB_201,Cloud Engineer,Capgemini,Product-Based,Pune,Tamil Nadu,B.Sc,2023,"Linux, Java, Power BI",Python,0,1,1,Internship,8.21,15000,4,0,1,3,1
+JOB_202,Web Developer,Infosys,Service-Based,Chennai,Telangana,B.Tech,2023,"Python, AWS, Linux",Machine Learning,1,0,0,Internship,3.42,15000,3,1,0,2,0
+JOB_203,Web Developer,Capgemini,MNC,Kolkata,Telangana,MCA,2025,"Python, Power BI, SQL",Linux,1,0,1,Full-Time,3.81,0,2,0,0,2,1
+JOB_204,Cloud Engineer,Cognizant,Product-Based,Delhi,Maharashtra,B.Com,2023,"SQL, Java, Machine Learning",Excel,0,1,0,Internship,9.49,15000,5,0,1,2,0
+JOB_205,Cybersecurity Analyst,Deloitte,Startup,Hyderabad,Telangana,BCA,2023,"Java, Machine Learning, Python",Linux,1,0,1,Full-Time,8.03,0,2,1,1,2,0
+JOB_206,Web Developer,Deloitte,Service-Based,Noida,Uttar Pradesh,MCA,2024,"Machine Learning, Linux, Power BI",Machine Learning,1,0,1,Full-Time,3.05,10000,5,1,0,1,1
+JOB_207,AI/ML Engineer,Deloitte,Product-Based,Hyderabad,Karnataka,M.Tech,2024,"Excel, Java, Power BI",SQL,0,1,0,Internship,6.61,12000,3,0,1,2,0
+JOB_208,AI/ML Engineer,Capgemini,MNC,Noida,Tamil Nadu,B.Tech,2025,"SQL, Python, Java",SQL,1,1,1,Internship,9.98,15000,2,1,0,2,1
+JOB_209,Business Analyst,TCS,Service-Based,Hyderabad,Maharashtra,B.Tech,2024,"Excel, Machine Learning, Python",AWS,1,0,0,Full-Time,3.03,12000,3,0,1,1,1
+JOB_210,Web Developer,Infosys,Product-Based,Hyderabad,Uttar Pradesh,M.Tech,2025,"Java, Machine Learning, SQL",Machine Learning,0,0,0,Full-Time,3.8,0,3,1,1,1,0
+JOB_211,Cloud Engineer,Wipro,Startup,Noida,Telangana,B.Sc,2025,"Power BI, Java, SQL",Linux,0,0,0,Internship,7.74,0,5,1,1,2,1
+JOB_212,Cybersecurity Analyst,Capgemini,Product-Based,Hyderabad,Uttar Pradesh,B.Tech,2025,"AWS, Excel, SQL",Python,1,0,0,Full-Time,8.46,8000,2,1,0,3,1
+JOB_213,Software Engineer,Startup,Service-Based,Chennai,West Bengal,B.Sc,2024,"Linux, SQL, Java",Java,0,1,0,Full-Time,6.26,12000,3,0,1,3,1
+JOB_214,Web Developer,Wipro,Service-Based,Noida,Maharashtra,M.Tech,2025,"SQL, Java, Excel",Linux,0,0,0,Full-Time,4.12,15000,3,1,0,3,0
+JOB_215,Software Engineer,TCS,MNC,Chennai,Karnataka,BCA,2024,"SQL, Excel, Machine Learning",Excel,0,0,0,Internship,6.56,10000,3,0,1,3,0
+JOB_216,Software Engineer,Startup,Service-Based,Mumbai,Telangana,BCA,2024,"AWS, SQL, Python",SQL,0,0,1,Internship,4.19,12000,4,1,0,2,1
+JOB_217,Cloud Engineer,Accenture,MNC,Bangalore,Karnataka,M.Tech,2023,"Machine Learning, Linux, Python",Python,0,0,0,Full-Time,6.63,8000,5,1,0,2,1
+JOB_218,Cybersecurity Analyst,TCS,MNC,Hyderabad,Telangana,M.Tech,2024,"Java, Power BI, Excel",AWS,1,0,1,Full-Time,8.73,15000,2,1,0,3,1
+JOB_219,Business Analyst,Accenture,Service-Based,Chennai,Uttar Pradesh,B.Com,2024,"Python, Linux, Java",Excel,0,0,1,Internship,6.25,0,4,0,0,2,1
+JOB_220,Cybersecurity Analyst,Capgemini,Startup,Mumbai,Karnataka,M.Tech,2023,"Linux, SQL, Python",SQL,0,0,1,Internship,9.25,12000,3,1,0,3,1
+JOB_221,Data Analyst,Cognizant,Startup,Pune,Maharashtra,M.Tech,2025,"SQL, Java, Machine Learning",Java,0,1,1,Full-Time,6.29,8000,3,0,1,2,0
+JOB_222,Business Analyst,Startup,MNC,Hyderabad,Telangana,B.Sc,2024,"Linux, Java, Excel",SQL,1,0,0,Full-Time,5.84,8000,2,0,1,3,1
+JOB_223,Data Scientist,Capgemini,Service-Based,Hyderabad,West Bengal,B.Com,2025,"Java, Power BI, Excel",Java,0,0,1,Full-Time,6.56,0,5,1,0,2,0
+JOB_224,Software Engineer,Infosys,Startup,Mumbai,Uttar Pradesh,M.Tech,2025,"SQL, Power BI, Linux",Linux,1,1,0,Full-Time,4.84,10000,4,1,0,3,0
+JOB_225,Business Analyst,Infosys,Startup,Mumbai,Uttar Pradesh,B.Sc,2025,"Power BI, Linux, Java",Power BI,1,1,1,Internship,4.33,8000,2,0,1,1,0
+JOB_226,Business Analyst,Infosys,Startup,Bangalore,West Bengal,B.Tech,2023,"Excel, Linux, Python",Java,1,0,0,Internship,4.22,12000,2,1,1,1,0
+JOB_227,Data Analyst,Capgemini,MNC,Delhi,Karnataka,B.Tech,2024,"Excel, Power BI, Java",AWS,1,0,1,Full-Time,7.87,10000,4,1,0,2,1
+JOB_228,Data Analyst,Infosys,Product-Based,Noida,Karnataka,BCA,2023,"Machine Learning, Linux, Python",Java,0,0,0,Internship,4.97,0,4,0,0,1,0
+JOB_229,AI/ML Engineer,Infosys,Service-Based,Delhi,Karnataka,BCA,2023,"AWS, Linux, Excel",Power BI,0,1,0,Internship,11.35,12000,4,0,0,3,1
+JOB_230,Business Analyst,Startup,MNC,Hyderabad,Telangana,B.Com,2025,"Machine Learning, Linux, AWS",Linux,1,0,1,Full-Time,6.16,12000,5,1,0,1,1
+JOB_231,Data Scientist,Accenture,Startup,Hyderabad,Telangana,B.Com,2025,"Excel, Machine Learning, Java",Python,0,0,1,Full-Time,10.77,10000,3,1,1,1,1
+JOB_232,Cloud Engineer,Startup,Product-Based,Hyderabad,Telangana,M.Tech,2024,"Machine Learning, Linux, AWS",Python,0,0,0,Internship,7.51,15000,4,0,0,3,1
+JOB_233,Data Analyst,Cognizant,Startup,Delhi,Telangana,MCA,2024,"AWS, Java, Power BI",Java,1,0,0,Internship,5.88,8000,4,0,0,3,0
+JOB_234,Cybersecurity Analyst,Deloitte,Service-Based,Pune,Karnataka,MCA,2023,"Java, Linux, Power BI",Excel,1,0,0,Full-Time,7.46,10000,2,1,1,3,1
+JOB_235,Cloud Engineer,Capgemini,MNC,Bangalore,Tamil Nadu,B.Tech,2024,"Machine Learning, AWS, SQL",Excel,1,1,1,Full-Time,5.98,8000,5,1,1,2,0
+JOB_236,Data Analyst,Startup,MNC,Noida,Maharashtra,MCA,2024,"Java, Machine Learning, Excel",SQL,0,0,1,Full-Time,6.61,0,2,1,0,2,1
+JOB_237,Cybersecurity Analyst,Infosys,Startup,Mumbai,Karnataka,B.Tech,2023,"Python, Power BI, Java",SQL,1,0,0,Full-Time,6.4,10000,3,0,0,3,1
+JOB_238,Software Engineer,Infosys,Product-Based,Noida,Karnataka,BCA,2023,"Excel, Python, Power BI",Python,1,0,0,Full-Time,3.12,10000,5,1,0,1,1
+JOB_239,Business Analyst,Deloitte,MNC,Kolkata,Delhi,M.Tech,2024,"Excel, Power BI, Python",Machine Learning,0,1,1,Full-Time,6.23,15000,2,1,0,2,0
+JOB_240,Cybersecurity Analyst,Deloitte,MNC,Kolkata,Karnataka,BCA,2025,"Power BI, AWS, Machine Learning",Machine Learning,0,1,0,Internship,5.89,0,3,0,1,2,1
+JOB_241,Business Analyst,Capgemini,Startup,Bangalore,Telangana,B.Com,2024,"Linux, AWS, SQL",Power BI,0,0,0,Full-Time,7.7,0,4,0,0,2,0
+JOB_242,Data Scientist,Deloitte,Startup,Delhi,Delhi,B.Com,2023,"Java, Python, SQL",Power BI,1,1,1,Internship,11.72,15000,5,1,1,1,0
+JOB_243,Data Scientist,Cognizant,MNC,Hyderabad,Tamil Nadu,B.Com,2024,"Power BI, Excel, Linux",Power BI,1,1,1,Internship,11.49,12000,2,0,0,2,1
+JOB_244,Software Engineer,Wipro,Service-Based,Chennai,Delhi,M.Tech,2024,"SQL, Power BI, Java",Java,1,0,0,Full-Time,4.85,8000,5,0,1,1,0
+JOB_245,Data Scientist,Wipro,Startup,Noida,West Bengal,B.Tech,2023,"Python, Excel, Linux",Excel,1,0,1,Full-Time,6.09,8000,2,1,0,3,0
+JOB_246,Data Analyst,Startup,MNC,Noida,Maharashtra,M.Tech,2024,"Machine Learning, Linux, AWS",Machine Learning,0,1,1,Full-Time,7.64,10000,4,0,1,1,1
+JOB_247,Cybersecurity Analyst,Cognizant,MNC,Mumbai,West Bengal,B.Com,2025,"Machine Learning, Linux, Python",AWS,0,1,1,Full-Time,7.14,10000,4,0,1,3,1
+JOB_248,Cloud Engineer,Infosys,Service-Based,Bangalore,West Bengal,BCA,2025,"Power BI, SQL, Linux",AWS,0,0,1,Internship,9.83,8000,5,1,1,2,0
+JOB_249,Data Analyst,Deloitte,MNC,Bangalore,Maharashtra,MCA,2025,"Linux, Power BI, Excel",AWS,1,0,1,Internship,7.82,12000,2,1,0,1,0
+JOB_250,Data Scientist,Capgemini,Service-Based,Bangalore,Maharashtra,M.Tech,2024,"Power BI, SQL, Excel",Python,1,0,1,Internship,11.12,0,5,1,1,1,0
+JOB_251,Business Analyst,Accenture,Product-Based,Mumbai,Tamil Nadu,B.Sc,2023,"Machine Learning, Excel, Java",Excel,0,1,1,Internship,4.47,10000,5,0,0,3,0
+JOB_252,Cybersecurity Analyst,Startup,Startup,Kolkata,Telangana,BCA,2023,"Machine Learning, Excel, SQL",Linux,0,1,1,Full-Time,6.93,15000,5,0,1,1,0
+JOB_253,Data Analyst,TCS,Startup,Hyderabad,West Bengal,BCA,2023,"Linux, AWS, Java",Excel,0,1,0,Internship,7.26,10000,5,0,1,2,0
+JOB_254,Software Engineer,Startup,Startup,Kolkata,West Bengal,B.Com,2025,"Java, SQL, Power BI",Java,0,0,0,Full-Time,4.58,12000,4,1,1,2,0
+JOB_255,Software Engineer,Cognizant,Product-Based,Chennai,Tamil Nadu,B.Sc,2023,"Linux, AWS, Java",SQL,0,0,0,Full-Time,3.85,8000,5,0,1,1,0
+JOB_256,Cybersecurity Analyst,Accenture,Startup,Delhi,Telangana,B.Tech,2025,"SQL, Python, Machine Learning",Machine Learning,0,0,1,Full-Time,7.78,10000,3,0,0,2,0
+JOB_257,Cloud Engineer,TCS,MNC,Mumbai,Uttar Pradesh,B.Com,2024,"Linux, Power BI, Python",AWS,0,1,1,Internship,9.68,15000,5,1,0,3,0
+JOB_258,Software Engineer,Cognizant,MNC,Noida,Maharashtra,M.Tech,2025,"SQL, Python, Power BI",AWS,1,0,0,Internship,6.48,0,4,1,1,3,0
+JOB_259,AI/ML Engineer,Cognizant,MNC,Bangalore,Telangana,M.Tech,2023,"Python, Machine Learning, Excel",Python,0,0,1,Full-Time,9.42,8000,2,0,0,2,1
+JOB_260,Data Scientist,Wipro,MNC,Noida,Telangana,M.Tech,2025,"Power BI, Machine Learning, Java",SQL,0,1,0,Internship,6.58,10000,2,0,1,2,1
+JOB_261,Business Analyst,Startup,Service-Based,Kolkata,West Bengal,B.Tech,2024,"Excel, Python, Machine Learning",AWS,1,0,0,Full-Time,6.08,10000,4,1,1,1,0
+JOB_262,Cloud Engineer,Cognizant,Service-Based,Noida,Karnataka,MCA,2024,"SQL, Python, Java",Python,0,1,1,Full-Time,9.95,12000,5,1,1,2,0
+JOB_263,Cybersecurity Analyst,Cognizant,Startup,Chennai,Tamil Nadu,B.Tech,2023,"AWS, Power BI, Excel",Java,0,0,0,Full-Time,5.7,15000,2,0,1,1,0
+JOB_264,Business Analyst,TCS,Startup,Noida,Tamil Nadu,MCA,2024,"Excel, AWS, Power BI",AWS,0,0,1,Full-Time,5.59,10000,5,1,1,2,0
+JOB_265,Cloud Engineer,Infosys,Service-Based,Chennai,Tamil Nadu,B.Tech,2024,"AWS, Python, Excel",Power BI,0,1,0,Internship,9.39,15000,5,1,0,3,1
+JOB_266,Cybersecurity Analyst,Wipro,Product-Based,Mumbai,Maharashtra,BCA,2023,"AWS, Machine Learning, Excel",Python,1,0,0,Internship,8.7,8000,5,1,0,1,1
+JOB_267,Web Developer,Startup,Product-Based,Hyderabad,Telangana,B.Com,2023,"Python, Excel, SQL",Machine Learning,0,1,1,Internship,6.49,10000,4,1,1,3,0
+JOB_268,Software Engineer,Capgemini,Product-Based,Mumbai,Tamil Nadu,B.Com,2024,"Python, Machine Learning, AWS",Excel,0,1,0,Internship,6.51,15000,4,0,1,1,1
+JOB_269,AI/ML Engineer,Infosys,Service-Based,Kolkata,West Bengal,MCA,2025,"Machine Learning, Python, Power BI",Java,0,0,0,Full-Time,8.16,0,4,1,0,1,1
+JOB_270,Business Analyst,Startup,Startup,Chennai,Uttar Pradesh,B.Tech,2023,"AWS, Machine Learning, Python",AWS,0,1,0,Full-Time,4.47,0,3,1,0,3,1
+JOB_271,Data Scientist,Cognizant,Product-Based,Chennai,Telangana,B.Com,2024,"Linux, SQL, Java",Excel,0,1,1,Full-Time,10.86,10000,4,1,0,2,0
+JOB_272,Web Developer,Infosys,Startup,Delhi,Telangana,B.Sc,2025,"Power BI, Java, SQL",AWS,0,0,0,Full-Time,7.05,8000,5,1,0,1,1
+JOB_273,Data Scientist,Deloitte,Service-Based,Bangalore,West Bengal,B.Com,2025,"SQL, AWS, Power BI",Linux,0,0,1,Full-Time,11.2,15000,3,1,1,2,1
+JOB_274,Data Scientist,Deloitte,Product-Based,Kolkata,Uttar Pradesh,B.Tech,2023,"SQL, Linux, Power BI",Excel,1,1,1,Internship,11.48,8000,2,0,1,3,0
+JOB_275,Data Analyst,Cognizant,Startup,Hyderabad,Telangana,B.Sc,2024,"SQL, AWS, Java",Excel,0,1,0,Full-Time,5.56,12000,4,0,0,1,1
+JOB_276,AI/ML Engineer,Capgemini,Service-Based,Bangalore,Tamil Nadu,BCA,2025,"Excel, AWS, Java",Python,0,0,0,Internship,9.01,8000,3,1,0,1,1
+JOB_277,Software Engineer,Accenture,Service-Based,Chennai,Delhi,M.Tech,2023,"Excel, Java, SQL",Power BI,0,0,0,Full-Time,6.99,8000,4,0,1,2,0
+JOB_278,Business Analyst,Wipro,MNC,Noida,Uttar Pradesh,M.Tech,2024,"Excel, Power BI, SQL",Java,0,0,0,Full-Time,6.25,15000,3,0,0,2,1
+JOB_279,Web Developer,Accenture,MNC,Hyderabad,Tamil Nadu,B.Com,2025,"Linux, Power BI, Python",Machine Learning,0,1,0,Internship,6.51,15000,5,0,0,3,0
+JOB_280,Data Scientist,Infosys,MNC,Hyderabad,Delhi,B.Com,2023,"Power BI, Linux, Python",AWS,1,1,0,Internship,10.77,15000,2,0,1,3,1
+JOB_281,Web Developer,Startup,Startup,Mumbai,Telangana,M.Tech,2023,"Linux, Machine Learning, Power BI",Python,0,0,0,Full-Time,7.45,15000,4,1,0,3,1
+JOB_282,Cloud Engineer,TCS,Startup,Bangalore,West Bengal,B.Sc,2023,"Machine Learning, Power BI, SQL",Python,0,1,1,Full-Time,6.69,0,5,1,1,1,1
+JOB_283,Data Analyst,TCS,Product-Based,Delhi,West Bengal,B.Tech,2023,"Linux, Excel, Java",Excel,0,1,0,Internship,4.88,0,3,0,0,2,1
+JOB_284,Software Engineer,Startup,Service-Based,Noida,Telangana,BCA,2023,"AWS, Linux, Python",AWS,1,1,1,Full-Time,3.47,8000,5,0,0,1,1
+JOB_285,AI/ML Engineer,Capgemini,Service-Based,Noida,West Bengal,B.Com,2023,"Python, Power BI, Machine Learning",Machine Learning,1,1,1,Internship,9.47,8000,5,0,1,3,0
+JOB_286,Data Scientist,Startup,MNC,Delhi,Delhi,BCA,2023,"Linux, Power BI, Machine Learning",Python,0,0,1,Full-Time,6.22,15000,5,1,0,1,0
+JOB_287,Business Analyst,Capgemini,Service-Based,Mumbai,Tamil Nadu,BCA,2023,"Linux, Machine Learning, Python",Python,1,1,1,Internship,5.33,8000,3,0,0,2,0
+JOB_288,Data Scientist,Startup,Service-Based,Noida,Delhi,B.Sc,2024,"Excel, AWS, Power BI",Java,0,1,1,Full-Time,9.26,10000,4,1,0,2,0
+JOB_289,Web Developer,Infosys,MNC,Chennai,West Bengal,B.Tech,2023,"AWS, Java, SQL",Linux,0,1,1,Internship,4.43,10000,2,1,1,3,0
+JOB_290,Business Analyst,Wipro,Startup,Mumbai,Uttar Pradesh,MCA,2024,"Java, Excel, Power BI",Excel,0,1,0,Internship,5.95,10000,2,0,1,2,1
+JOB_291,Web Developer,Startup,MNC,Bangalore,Telangana,BCA,2023,"Power BI, Machine Learning, SQL",Java,1,1,1,Internship,3.15,0,2,0,0,2,1
+JOB_292,Web Developer,Startup,MNC,Hyderabad,Telangana,BCA,2025,"AWS, Machine Learning, SQL",Machine Learning,0,1,0,Internship,3.19,8000,4,0,0,1,1
+JOB_293,Cybersecurity Analyst,TCS,Product-Based,Kolkata,Karnataka,B.Sc,2024,"Machine Learning, SQL, Linux",Java,1,1,0,Internship,9.11,12000,3,1,0,3,0
+JOB_294,Data Scientist,Accenture,Service-Based,Kolkata,Uttar Pradesh,B.Com,2024,"Machine Learning, Linux, Java",SQL,0,1,1,Internship,8.16,8000,4,1,1,1,1
+JOB_295,Software Engineer,Accenture,Startup,Bangalore,Delhi,M.Tech,2025,"Java, Excel, Linux",Linux,1,1,1,Internship,3.64,0,3,0,1,2,0
+JOB_296,Cloud Engineer,Accenture,Startup,Delhi,Delhi,BCA,2025,"SQL, Python, Java",Python,1,0,1,Full-Time,7.61,15000,3,1,0,1,0
+JOB_297,Web Developer,Cognizant,Startup,Delhi,Delhi,B.Sc,2023,"AWS, Machine Learning, Java",Excel,0,1,0,Internship,6.85,0,3,1,0,2,0
+JOB_298,Data Analyst,Infosys,MNC,Pune,West Bengal,MCA,2025,"Excel, AWS, SQL",SQL,1,1,0,Internship,4.08,0,3,0,1,1,0
+JOB_299,Data Scientist,Capgemini,Product-Based,Chennai,Karnataka,BCA,2024,"Power BI, Excel, Machine Learning",Java,0,0,0,Internship,9.74,15000,4,1,0,3,0
+JOB_300,AI/ML Engineer,Startup,MNC,Bangalore,Karnataka,B.Sc,2025,"Machine Learning, AWS, Python",Machine Learning,0,1,1,Full-Time,6.51,8000,4,0,0,2,0
+JOB_301,Cloud Engineer,TCS,Startup,Bangalore,Maharashtra,B.Com,2025,"Linux, Java, Machine Learning",Linux,1,1,0,Full-Time,5.26,10000,5,1,0,3,1
+JOB_302,Web Developer,Wipro,Product-Based,Hyderabad,West Bengal,BCA,2024,"SQL, AWS, Linux",Linux,0,0,0,Internship,5.66,10000,3,1,1,3,1
+JOB_303,Data Analyst,Deloitte,Service-Based,Noida,Uttar Pradesh,B.Sc,2025,"Linux, SQL, Java",Power BI,0,0,1,Full-Time,5.7,15000,2,0,0,3,0
+JOB_304,Data Analyst,Capgemini,Product-Based,Noida,Tamil Nadu,M.Tech,2023,"Excel, Python, AWS",Java,0,1,1,Internship,6.19,12000,4,1,1,2,1
+JOB_305,Web Developer,Capgemini,MNC,Delhi,Maharashtra,B.Com,2024,"Excel, AWS, Java",Java,1,1,1,Internship,6.63,12000,5,1,1,2,0
+JOB_306,Software Engineer,Accenture,Product-Based,Delhi,Telangana,B.Tech,2025,"Machine Learning, Java, AWS",Python,1,0,0,Internship,7.88,15000,2,0,0,2,1
+JOB_307,Business Analyst,Wipro,Service-Based,Chennai,Karnataka,B.Tech,2023,"Java, Machine Learning, AWS",Python,0,1,1,Internship,5.58,15000,3,1,0,2,0
+JOB_308,Web Developer,TCS,MNC,Bangalore,Tamil Nadu,BCA,2025,"AWS, Machine Learning, Java",Excel,0,0,0,Full-Time,4.61,12000,5,1,1,1,0
+JOB_309,Software Engineer,Startup,Startup,Mumbai,West Bengal,BCA,2023,"Power BI, Machine Learning, AWS",Excel,0,0,0,Full-Time,6.98,10000,5,1,1,3,0
+JOB_310,Business Analyst,Deloitte,Startup,Kolkata,Telangana,M.Tech,2025,"Machine Learning, Excel, Power BI",Linux,0,0,1,Full-Time,4.35,12000,5,1,0,1,1
+JOB_311,Cybersecurity Analyst,Capgemini,Service-Based,Hyderabad,Maharashtra,B.Sc,2024,"SQL, Linux, Machine Learning",AWS,0,0,1,Internship,7.19,8000,5,1,1,1,1
+JOB_312,Cloud Engineer,TCS,MNC,Chennai,Uttar Pradesh,BCA,2024,"Machine Learning, AWS, Linux",Java,0,0,1,Full-Time,5.39,10000,4,0,0,1,0
+JOB_313,Cybersecurity Analyst,Infosys,Service-Based,Hyderabad,Uttar Pradesh,BCA,2024,"SQL, AWS, Python",Python,1,0,0,Internship,5.13,10000,2,0,0,1,0
+JOB_314,Data Analyst,Startup,MNC,Noida,Maharashtra,B.Com,2025,"Java, AWS, Power BI",Machine Learning,0,1,1,Full-Time,7.81,10000,3,0,0,1,0
+JOB_315,Cybersecurity Analyst,TCS,Service-Based,Delhi,Tamil Nadu,BCA,2023,"Python, Linux, Machine Learning",Java,0,0,1,Full-Time,9.18,10000,5,1,1,3,0
+JOB_316,Cybersecurity Analyst,Cognizant,MNC,Mumbai,Tamil Nadu,B.Com,2025,"Power BI, Machine Learning, Python",Java,1,1,1,Internship,8.48,12000,5,1,1,3,0
+JOB_317,Web Developer,Capgemini,MNC,Chennai,Maharashtra,BCA,2023,"Excel, SQL, Python",Power BI,0,0,1,Full-Time,5.04,12000,2,1,1,1,0
+JOB_318,Software Engineer,Accenture,Product-Based,Hyderabad,Karnataka,B.Sc,2025,"Linux, Excel, Machine Learning",Java,1,1,0,Internship,3.87,12000,2,1,0,2,1
+JOB_319,Web Developer,Cognizant,Startup,Delhi,Maharashtra,B.Com,2023,"SQL, Machine Learning, Linux",Machine Learning,1,1,1,Full-Time,3.78,8000,2,1,1,3,0
+JOB_320,Business Analyst,Startup,MNC,Noida,West Bengal,B.Sc,2024,"AWS, Linux, Power BI",Power BI,1,1,0,Full-Time,4.25,10000,3,1,1,2,0
+JOB_321,Web Developer,Accenture,Product-Based,Hyderabad,Delhi,B.Sc,2025,"Python, Java, AWS",Machine Learning,0,0,1,Internship,5.75,10000,2,0,0,1,0
+JOB_322,Cybersecurity Analyst,Capgemini,MNC,Pune,Uttar Pradesh,B.Com,2025,"AWS, SQL, Excel",Java,0,0,1,Internship,8.57,10000,5,1,1,3,1
+JOB_323,AI/ML Engineer,Deloitte,MNC,Bangalore,Maharashtra,MCA,2024,"AWS, Linux, Machine Learning",Java,1,1,0,Internship,9.96,15000,3,0,0,2,1
+JOB_324,Web Developer,Capgemini,Service-Based,Kolkata,Delhi,B.Tech,2025,"Machine Learning, AWS, SQL",Machine Learning,0,0,0,Internship,4.4,12000,3,1,1,2,1
+JOB_325,Data Scientist,Infosys,Startup,Mumbai,Karnataka,M.Tech,2024,"Java, Power BI, Linux",Machine Learning,0,0,1,Internship,11.73,0,5,0,1,2,0
+JOB_326,Cybersecurity Analyst,TCS,Product-Based,Delhi,Tamil Nadu,M.Tech,2023,"Python, Java, SQL",Power BI,1,1,0,Full-Time,8.69,12000,4,0,0,1,0
+JOB_327,Cloud Engineer,Infosys,Service-Based,Pune,West Bengal,MCA,2024,"Power BI, Java, SQL",AWS,1,0,0,Full-Time,7.77,12000,5,0,1,2,1
+JOB_328,Data Scientist,TCS,Startup,Chennai,West Bengal,B.Sc,2023,"Power BI, Python, SQL",Excel,0,1,1,Full-Time,9.67,0,3,1,0,1,0
+JOB_329,Data Analyst,Infosys,Product-Based,Mumbai,Uttar Pradesh,M.Tech,2023,"Python, Excel, SQL",SQL,1,0,1,Internship,5.1,0,4,1,0,3,1
+JOB_330,AI/ML Engineer,Cognizant,Startup,Kolkata,Telangana,M.Tech,2023,"Python, Machine Learning, Excel",Machine Learning,0,0,1,Full-Time,7.49,12000,3,1,0,2,1
+JOB_331,Data Analyst,Accenture,Product-Based,Mumbai,Maharashtra,BCA,2023,"Java, Linux, AWS",Java,0,1,0,Internship,4.78,12000,5,0,1,1,0
+JOB_332,Data Scientist,Infosys,Service-Based,Bangalore,Maharashtra,B.Tech,2025,"SQL, Python, Linux",Linux,1,0,1,Full-Time,10.55,10000,3,0,1,2,1
+JOB_333,AI/ML Engineer,Deloitte,Startup,Chennai,Delhi,BCA,2024,"Excel, Power BI, Machine Learning",Power BI,1,0,1,Internship,6.09,0,4,1,1,2,1
+JOB_334,Cloud Engineer,Startup,Startup,Chennai,Telangana,B.Sc,2024,"Python, SQL, Machine Learning",SQL,0,0,0,Full-Time,5.58,10000,4,1,0,3,0
+JOB_335,Cybersecurity Analyst,TCS,Startup,Kolkata,Delhi,B.Sc,2025,"Python, SQL, AWS",Excel,1,0,1,Full-Time,5.23,15000,3,1,1,2,1
+JOB_336,Cybersecurity Analyst,Wipro,Service-Based,Kolkata,Tamil Nadu,B.Sc,2023,"Excel, Machine Learning, Power BI",Power BI,1,0,1,Internship,5.2,8000,5,1,0,3,1
+JOB_337,Business Analyst,Infosys,Service-Based,Bangalore,Karnataka,B.Tech,2025,"Power BI, Machine Learning, SQL",Linux,0,1,1,Full-Time,7.28,8000,3,0,1,3,1
+JOB_338,Cybersecurity Analyst,Accenture,Product-Based,Hyderabad,Delhi,B.Com,2024,"Linux, Excel, Power BI",Linux,1,1,0,Internship,8.52,8000,5,0,1,1,0
+JOB_339,Cloud Engineer,Infosys,Product-Based,Delhi,West Bengal,B.Tech,2023,"Machine Learning, SQL, Java",Linux,1,0,0,Internship,7.37,0,3,1,0,2,1
+JOB_340,Software Engineer,Wipro,MNC,Pune,Uttar Pradesh,MCA,2024,"Excel, Machine Learning, Python",Machine Learning,0,1,0,Full-Time,3.49,10000,4,1,0,2,1
+JOB_341,AI/ML Engineer,Accenture,Startup,Kolkata,Karnataka,M.Tech,2025,"AWS, SQL, Excel",SQL,0,1,1,Internship,8.95,8000,3,1,1,1,1
+JOB_342,Cloud Engineer,Cognizant,Startup,Mumbai,Telangana,MCA,2024,"Excel, SQL, Linux",Linux,1,0,0,Full-Time,7.37,0,4,1,1,2,0
+JOB_343,AI/ML Engineer,Infosys,MNC,Hyderabad,Delhi,M.Tech,2024,"SQL, Linux, Power BI",Python,1,0,0,Full-Time,7.04,10000,2,0,0,2,1
+JOB_344,Cloud Engineer,Startup,Product-Based,Pune,Karnataka,B.Sc,2023,"Power BI, Excel, Java",AWS,0,0,0,Full-Time,7.17,15000,2,0,1,2,0
+JOB_345,Cybersecurity Analyst,Wipro,Product-Based,Noida,Tamil Nadu,MCA,2024,"SQL, Python, Linux",Excel,0,1,0,Full-Time,6.99,12000,3,1,0,3,1
+JOB_346,AI/ML Engineer,Deloitte,Product-Based,Kolkata,Telangana,M.Tech,2025,"SQL, AWS, Python",Machine Learning,0,0,1,Internship,9.7,0,2,1,0,3,1
+JOB_347,Cloud Engineer,Wipro,Startup,Noida,Tamil Nadu,B.Sc,2024,"Power BI, Excel, SQL",SQL,0,1,0,Full-Time,8.18,8000,3,0,1,3,0
+JOB_348,Cloud Engineer,Infosys,MNC,Kolkata,West Bengal,B.Com,2024,"SQL, Python, AWS",Python,0,0,1,Internship,5.23,0,3,0,1,1,0
+JOB_349,Data Analyst,TCS,MNC,Pune,Delhi,B.Sc,2024,"Power BI, AWS, Java",AWS,1,1,0,Full-Time,4.87,8000,5,1,1,2,1
+JOB_350,Data Scientist,Wipro,MNC,Noida,Delhi,BCA,2024,"Power BI, Java, Python",SQL,0,0,0,Full-Time,9.76,8000,2,1,1,1,1
+JOB_351,Cybersecurity Analyst,Capgemini,Startup,Chennai,West Bengal,B.Sc,2024,"Python, Excel, SQL",Machine Learning,0,1,0,Internship,7.52,0,3,1,0,1,0
+JOB_352,Software Engineer,Wipro,Startup,Delhi,West Bengal,MCA,2024,"Python, Linux, SQL",Linux,1,0,1,Internship,7.28,12000,5,0,0,2,0
+JOB_353,Data Scientist,Infosys,MNC,Pune,Karnataka,M.Tech,2025,"Python, Java, AWS",AWS,0,1,0,Internship,9.95,15000,3,1,0,3,1
+JOB_354,Data Scientist,Capgemini,MNC,Hyderabad,West Bengal,B.Sc,2023,"Power BI, SQL, Java",Linux,0,0,1,Full-Time,6.98,8000,3,1,0,2,1
+JOB_355,Data Scientist,Deloitte,Startup,Bangalore,Maharashtra,MCA,2025,"Python, Machine Learning, Power BI",Machine Learning,1,1,0,Internship,6.42,12000,5,0,0,3,1
+JOB_356,Data Scientist,Accenture,Service-Based,Chennai,Uttar Pradesh,BCA,2023,"Java, Power BI, AWS",SQL,0,0,1,Internship,9.85,10000,5,0,1,3,0
+JOB_357,AI/ML Engineer,Cognizant,Service-Based,Kolkata,West Bengal,MCA,2023,"Power BI, AWS, Linux",AWS,0,0,0,Full-Time,6.16,0,5,0,1,1,0
+JOB_358,AI/ML Engineer,Startup,Startup,Delhi,Karnataka,BCA,2025,"Linux, Python, Java",Machine Learning,0,0,1,Full-Time,9.51,8000,4,1,0,2,1
+JOB_359,Data Analyst,TCS,MNC,Bangalore,Telangana,MCA,2024,"SQL, Linux, AWS",SQL,0,0,0,Full-Time,7.7,15000,2,0,0,1,1
+JOB_360,AI/ML Engineer,Capgemini,Service-Based,Noida,Delhi,B.Tech,2024,"Python, Java, Linux",Power BI,1,0,0,Full-Time,9.45,15000,2,0,1,1,0
+JOB_361,Cloud Engineer,Wipro,MNC,Hyderabad,Tamil Nadu,B.Tech,2023,"SQL, Linux, Machine Learning",SQL,0,0,0,Internship,6.94,8000,5,0,1,3,0
+JOB_362,Business Analyst,Deloitte,Product-Based,Pune,Uttar Pradesh,B.Sc,2024,"SQL, Java, Python",AWS,0,1,0,Full-Time,6.22,15000,3,1,1,2,1
+JOB_363,Software Engineer,Startup,Service-Based,Chennai,Uttar Pradesh,B.Tech,2025,"Java, Linux, Excel",SQL,0,0,0,Full-Time,5.29,0,5,0,0,1,0
+JOB_364,Web Developer,Cognizant,MNC,Bangalore,Maharashtra,B.Com,2024,"Python, SQL, Linux",Java,0,1,0,Internship,5.73,10000,4,1,0,2,1
+JOB_365,Business Analyst,Accenture,MNC,Delhi,Delhi,B.Com,2024,"Linux, SQL, Power BI",SQL,1,1,1,Full-Time,7.71,10000,3,0,0,2,0
+JOB_366,Cloud Engineer,TCS,Product-Based,Hyderabad,West Bengal,BCA,2025,"Excel, Linux, AWS",Power BI,1,0,0,Internship,6.93,15000,2,0,0,3,1
+JOB_367,Cloud Engineer,Wipro,Service-Based,Kolkata,Delhi,B.Tech,2023,"Python, Excel, Java",Excel,0,1,0,Full-Time,9.81,8000,5,0,0,1,0
+JOB_368,Software Engineer,Cognizant,MNC,Noida,Tamil Nadu,B.Tech,2023,"Java, Python, AWS",SQL,0,0,1,Full-Time,7.53,12000,5,0,1,1,0
+JOB_369,Cybersecurity Analyst,Deloitte,Startup,Noida,Tamil Nadu,B.Sc,2024,"Machine Learning, Excel, Power BI",Power BI,0,0,1,Internship,5.98,12000,4,0,0,1,1
+JOB_370,Data Scientist,Capgemini,Product-Based,Hyderabad,Telangana,M.Tech,2024,"Power BI, AWS, Java",Excel,0,1,1,Full-Time,6.42,12000,5,0,0,2,0
+JOB_371,Cloud Engineer,TCS,MNC,Bangalore,Uttar Pradesh,B.Tech,2023,"AWS, Excel, Python",Java,0,0,1,Internship,5.5,0,2,1,1,2,1
+JOB_372,Data Scientist,Startup,Startup,Delhi,Delhi,B.Tech,2025,"SQL, Java, Excel",Machine Learning,0,0,0,Full-Time,6.11,12000,2,1,0,2,1
+JOB_373,Data Scientist,Deloitte,Service-Based,Noida,Telangana,B.Com,2025,"Python, Machine Learning, SQL",Machine Learning,1,1,1,Internship,6.57,0,2,1,0,1,0
+JOB_374,Software Engineer,Cognizant,Service-Based,Bangalore,Telangana,B.Sc,2025,"Excel, AWS, Linux",Excel,1,0,1,Internship,6.42,8000,4,0,1,2,1
+JOB_375,Software Engineer,Wipro,Product-Based,Pune,Tamil Nadu,BCA,2024,"Java, Machine Learning, Linux",Linux,0,0,0,Full-Time,3.36,8000,5,0,1,2,0
+JOB_376,Web Developer,Startup,Service-Based,Delhi,Telangana,B.Com,2024,"Power BI, AWS, Python",Java,0,0,0,Full-Time,4.59,12000,5,0,1,3,1
+JOB_377,Web Developer,Startup,MNC,Kolkata,Karnataka,B.Com,2024,"Python, Power BI, AWS",Excel,0,1,1,Internship,7.22,10000,5,0,0,3,1
+JOB_378,Data Analyst,Accenture,Startup,Chennai,Tamil Nadu,B.Sc,2023,"SQL, Machine Learning, AWS",Python,0,0,0,Internship,3.12,0,3,1,1,1,1
+JOB_379,Web Developer,Wipro,MNC,Kolkata,Karnataka,B.Sc,2025,"Java, Linux, AWS",AWS,0,1,1,Full-Time,7.07,15000,4,0,1,1,1
+JOB_380,Data Analyst,Infosys,Startup,Chennai,Delhi,B.Com,2024,"Python, Linux, AWS",Power BI,1,1,1,Full-Time,4.41,10000,4,1,0,3,1
+JOB_381,Web Developer,Accenture,Product-Based,Bangalore,Maharashtra,B.Sc,2024,"Machine Learning, AWS, Java",Excel,0,0,0,Full-Time,3.59,15000,4,1,1,3,0
+JOB_382,Software Engineer,Infosys,Service-Based,Bangalore,Tamil Nadu,MCA,2024,"Python, Power BI, AWS",Java,1,0,0,Full-Time,6.48,12000,5,1,0,2,0
+JOB_383,Cybersecurity Analyst,Infosys,Startup,Bangalore,Delhi,B.Sc,2024,"AWS, Python, Excel",Excel,1,1,0,Full-Time,8.14,12000,4,1,0,3,1
+JOB_384,Web Developer,Wipro,Service-Based,Mumbai,Telangana,BCA,2023,"SQL, Excel, AWS",Linux,0,0,0,Internship,7.39,0,4,0,1,1,1
+JOB_385,Cybersecurity Analyst,Wipro,Product-Based,Hyderabad,Telangana,BCA,2023,"AWS, Linux, Power BI",SQL,0,0,1,Internship,8.68,15000,3,1,0,1,0
+JOB_386,Software Engineer,Infosys,Service-Based,Mumbai,Telangana,B.Sc,2025,"Machine Learning, Python, Linux",Excel,1,0,0,Full-Time,7.02,10000,5,1,1,2,1
+JOB_387,Cybersecurity Analyst,TCS,Startup,Delhi,West Bengal,MCA,2023,"Excel, Machine Learning, Linux",Excel,1,1,1,Internship,6.41,12000,2,0,0,3,0
+JOB_388,Data Analyst,Deloitte,Service-Based,Delhi,Karnataka,MCA,2024,"AWS, Linux, Power BI",Power BI,0,0,0,Full-Time,3.89,8000,3,1,0,2,1
+JOB_389,Business Analyst,Accenture,Startup,Chennai,Maharashtra,B.Sc,2023,"Excel, Python, Machine Learning",Power BI,0,1,0,Internship,6.75,15000,5,0,0,1,1
+JOB_390,AI/ML Engineer,TCS,Product-Based,Pune,Telangana,B.Sc,2024,"SQL, Python, Power BI",AWS,0,0,1,Internship,10.84,15000,4,1,0,3,1
+JOB_391,Data Scientist,Startup,Startup,Hyderabad,Karnataka,B.Tech,2024,"Machine Learning, Excel, SQL",Python,0,0,0,Internship,11.94,0,2,0,1,3,1
+JOB_392,Cybersecurity Analyst,Accenture,Product-Based,Noida,Maharashtra,MCA,2023,"Excel, Machine Learning, AWS",Excel,0,0,0,Internship,7.06,0,2,0,1,3,0
+JOB_393,Data Scientist,Capgemini,Service-Based,Delhi,Uttar Pradesh,M.Tech,2023,"AWS, Java, Python",Machine Learning,0,0,1,Internship,8.23,12000,3,0,1,2,0
+JOB_394,AI/ML Engineer,Capgemini,Service-Based,Noida,Tamil Nadu,B.Tech,2024,"SQL, Python, AWS",Linux,0,0,0,Internship,10.66,15000,2,0,1,2,0
+JOB_395,Web Developer,Accenture,Product-Based,Chennai,Maharashtra,MCA,2024,"Python, Linux, Excel",SQL,1,1,0,Full-Time,4.7,8000,3,0,0,1,0
+JOB_396,Business Analyst,Wipro,MNC,Hyderabad,Uttar Pradesh,BCA,2023,"Power BI, Excel, Java",Java,0,1,0,Internship,7.65,0,2,1,0,1,1
+JOB_397,Web Developer,Accenture,Product-Based,Pune,West Bengal,B.Com,2023,"Power BI, Java, Excel",SQL,1,1,0,Full-Time,7.29,12000,3,0,0,2,1
+JOB_398,Data Scientist,Cognizant,Startup,Delhi,Delhi,B.Com,2023,"Python, Linux, Machine Learning",SQL,1,0,1,Internship,8.57,12000,2,0,0,2,0
+JOB_399,Software Engineer,Startup,Startup,Bangalore,Delhi,B.Sc,2024,"AWS, Java, Power BI",Machine Learning,1,1,0,Full-Time,6.75,10000,5,0,0,2,1
+JOB_400,Cloud Engineer,Deloitte,Service-Based,Hyderabad,Karnataka,MCA,2025,"AWS, Excel, Power BI",AWS,1,1,0,Full-Time,8.77,10000,2,1,1,3,0
+JOB_401,Software Engineer,Deloitte,MNC,Bangalore,Karnataka,B.Tech,2025,"Excel, Machine Learning, SQL",Java,0,0,1,Internship,3.52,15000,5,0,0,1,0
+JOB_402,Cybersecurity Analyst,Startup,Startup,Delhi,Maharashtra,B.Com,2023,"AWS, Linux, Java",AWS,0,0,0,Internship,9.51,15000,4,0,0,2,1
+JOB_403,Web Developer,Accenture,Service-Based,Bangalore,Uttar Pradesh,MCA,2024,"Linux, Excel, AWS",Machine Learning,0,1,0,Internship,5.53,15000,4,0,0,2,0
+JOB_404,Web Developer,Accenture,MNC,Pune,Maharashtra,B.Tech,2023,"Power BI, Python, SQL",Java,0,0,1,Internship,7.13,0,5,0,1,3,0
+JOB_405,AI/ML Engineer,TCS,Startup,Pune,Maharashtra,M.Tech,2023,"AWS, SQL, Java",AWS,0,0,0,Full-Time,7.92,0,5,0,0,2,0
+JOB_406,Software Engineer,Infosys,Product-Based,Delhi,Maharashtra,B.Tech,2025,"Python, Excel, Java",SQL,0,1,0,Full-Time,7.48,8000,2,1,0,2,1
+JOB_407,Software Engineer,TCS,Product-Based,Chennai,Tamil Nadu,B.Com,2023,"Power BI, Python, Java",Excel,0,1,1,Full-Time,4.95,15000,2,1,1,2,0
+JOB_408,Data Analyst,TCS,MNC,Kolkata,Maharashtra,BCA,2023,"Linux, Python, Power BI",SQL,0,1,0,Internship,3.05,8000,3,1,0,2,0
+JOB_409,Data Analyst,Cognizant,Service-Based,Bangalore,Maharashtra,B.Com,2025,"Power BI, Linux, Java",Power BI,0,0,1,Full-Time,7.53,0,4,1,0,2,1
+JOB_410,Data Scientist,Capgemini,MNC,Pune,Telangana,B.Sc,2023,"Java, SQL, AWS",Excel,0,0,0,Full-Time,6.55,8000,3,1,1,1,1
+JOB_411,Data Scientist,Deloitte,Service-Based,Noida,Karnataka,B.Com,2023,"Python, SQL, Machine Learning",Java,1,0,0,Full-Time,7.92,15000,4,0,0,2,1
+JOB_412,Data Analyst,Wipro,Service-Based,Mumbai,West Bengal,B.Tech,2024,"Java, Linux, Power BI",AWS,1,1,1,Internship,7.75,15000,4,0,1,1,0
+JOB_413,Cybersecurity Analyst,Accenture,Product-Based,Kolkata,Karnataka,MCA,2025,"AWS, SQL, Python",Python,0,0,1,Full-Time,9.75,0,3,1,1,2,0
+JOB_414,AI/ML Engineer,Cognizant,Service-Based,Noida,Karnataka,MCA,2023,"Linux, Power BI, Machine Learning",Java,1,1,1,Internship,9.44,10000,2,0,1,2,0
+JOB_415,Cloud Engineer,TCS,Service-Based,Chennai,Karnataka,MCA,2025,"Java, Power BI, Python",SQL,0,0,0,Full-Time,8.16,8000,3,0,0,1,1
+JOB_416,AI/ML Engineer,Wipro,Service-Based,Noida,Tamil Nadu,B.Com,2025,"AWS, Java, Excel",Linux,1,0,0,Full-Time,8.69,15000,3,1,0,3,0
+JOB_417,Data Analyst,Cognizant,Startup,Bangalore,Maharashtra,B.Tech,2023,"AWS, Linux, Python",Power BI,1,1,1,Internship,4.47,8000,5,1,0,2,0
+JOB_418,Data Scientist,Capgemini,MNC,Mumbai,Tamil Nadu,B.Tech,2025,"Machine Learning, Linux, AWS",Python,0,1,0,Internship,7.97,10000,2,0,1,2,0
+JOB_419,Cloud Engineer,Wipro,Startup,Bangalore,Delhi,M.Tech,2025,"Linux, Java, AWS",Linux,0,0,1,Full-Time,8.36,8000,3,1,1,1,1
+JOB_420,AI/ML Engineer,Wipro,Product-Based,Hyderabad,Maharashtra,B.Tech,2023,"Power BI, Excel, Machine Learning",Java,1,1,1,Full-Time,10.51,8000,3,1,1,1,1
+JOB_421,Web Developer,Deloitte,MNC,Delhi,Delhi,B.Sc,2025,"AWS, Excel, Machine Learning",Java,1,0,0,Internship,6.96,12000,5,1,0,2,0
+JOB_422,Data Scientist,Accenture,Service-Based,Hyderabad,Delhi,BCA,2025,"Machine Learning, Java, Power BI",Power BI,1,1,1,Full-Time,10.74,8000,5,0,0,2,0
+JOB_423,Data Analyst,Capgemini,MNC,Noida,Maharashtra,BCA,2023,"Python, Linux, Excel",Excel,0,0,1,Internship,3.46,0,2,1,1,2,0
+JOB_424,Data Analyst,Accenture,Startup,Delhi,Karnataka,B.Com,2023,"Excel, Machine Learning, Power BI",AWS,0,1,0,Full-Time,5.47,12000,4,1,0,3,1
+JOB_425,Data Scientist,Infosys,Product-Based,Kolkata,Tamil Nadu,M.Tech,2023,"Java, Excel, Linux",Java,0,1,0,Full-Time,6.35,10000,5,1,0,3,1
+JOB_426,Data Analyst,Deloitte,Product-Based,Noida,Telangana,B.Sc,2023,"Linux, Power BI, Excel",Machine Learning,0,0,0,Internship,5.75,12000,5,0,0,3,1
+JOB_427,Software Engineer,Infosys,MNC,Mumbai,Uttar Pradesh,B.Com,2024,"Linux, Machine Learning, AWS",Java,1,1,1,Internship,5.21,0,4,1,0,3,0
+JOB_428,AI/ML Engineer,Cognizant,Startup,Mumbai,Delhi,M.Tech,2023,"Power BI, Python, SQL",Machine Learning,0,1,1,Full-Time,11.33,8000,2,1,0,2,1
+JOB_429,Data Analyst,Wipro,Service-Based,Mumbai,Maharashtra,B.Com,2025,"Machine Learning, Power BI, Linux",Linux,0,1,1,Full-Time,4.75,15000,4,1,0,3,1
+JOB_430,Business Analyst,Deloitte,MNC,Hyderabad,Uttar Pradesh,MCA,2023,"Excel, Power BI, Linux",Power BI,0,1,1,Internship,3.59,8000,4,1,0,2,1
+JOB_431,Business Analyst,Cognizant,Service-Based,Chennai,Maharashtra,BCA,2024,"AWS, Machine Learning, Power BI",Java,0,1,0,Internship,3.71,0,5,0,0,2,0
+JOB_432,Business Analyst,Infosys,Product-Based,Noida,Uttar Pradesh,BCA,2023,"Excel, AWS, Java",AWS,0,1,1,Internship,6.81,0,4,0,0,1,1
+JOB_433,Data Analyst,Capgemini,Product-Based,Delhi,Delhi,M.Tech,2024,"AWS, Linux, Machine Learning",Power BI,0,0,0,Full-Time,6.09,12000,2,0,1,2,1
+JOB_434,AI/ML Engineer,Accenture,MNC,Noida,Telangana,B.Com,2025,"Excel, Python, SQL",SQL,0,1,0,Full-Time,6.61,8000,3,0,1,1,0
+JOB_435,Web Developer,Startup,Product-Based,Noida,Delhi,B.Com,2025,"Java, AWS, Power BI",Machine Learning,1,1,1,Full-Time,3.42,15000,4,0,1,1,1
+JOB_436,AI/ML Engineer,Deloitte,Product-Based,Pune,Tamil Nadu,B.Tech,2024,"Excel, Python, SQL",Excel,0,0,1,Full-Time,10.21,12000,2,1,0,2,0
+JOB_437,Cloud Engineer,Deloitte,MNC,Mumbai,Telangana,B.Tech,2025,"Python, SQL, Power BI",Python,0,0,1,Full-Time,5.36,12000,2,1,1,3,1
+JOB_438,Data Analyst,TCS,Service-Based,Kolkata,Telangana,B.Sc,2023,"Java, Linux, SQL",SQL,1,0,0,Full-Time,7.11,10000,3,0,0,1,0
+JOB_439,Software Engineer,Deloitte,Product-Based,Hyderabad,Uttar Pradesh,BCA,2023,"AWS, Machine Learning, Excel",SQL,1,0,0,Full-Time,6.53,15000,5,1,1,2,0
+JOB_440,Business Analyst,Infosys,Startup,Mumbai,Maharashtra,MCA,2025,"SQL, Machine Learning, Java",SQL,1,1,1,Full-Time,3.41,0,5,1,0,2,1
+JOB_441,Web Developer,Infosys,Service-Based,Mumbai,Maharashtra,B.Tech,2024,"Power BI, Python, Java",Machine Learning,0,1,0,Full-Time,3.42,8000,2,1,0,1,1
+JOB_442,Business Analyst,Infosys,MNC,Mumbai,Uttar Pradesh,BCA,2023,"SQL, Java, Python",Python,0,1,0,Internship,7.93,8000,2,0,1,1,1
+JOB_443,Cybersecurity Analyst,Startup,Service-Based,Chennai,Karnataka,MCA,2023,"Power BI, AWS, Linux",Power BI,1,0,0,Full-Time,6.87,0,4,0,0,2,0
+JOB_444,Cloud Engineer,Accenture,Startup,Delhi,Uttar Pradesh,M.Tech,2024,"Excel, Python, AWS",Java,0,0,0,Full-Time,6.85,10000,3,0,1,2,1
+JOB_445,Cybersecurity Analyst,Deloitte,Service-Based,Pune,Uttar Pradesh,B.Tech,2024,"Python, SQL, Linux",Linux,1,0,0,Full-Time,9.06,15000,3,0,1,1,1
+JOB_446,Business Analyst,Deloitte,Product-Based,Pune,West Bengal,MCA,2025,"Excel, Python, Power BI",AWS,0,0,1,Internship,7.74,8000,3,0,0,2,1
+JOB_447,Cloud Engineer,Accenture,Service-Based,Mumbai,Telangana,B.Sc,2025,"SQL, Python, AWS",Power BI,0,0,1,Internship,9.93,8000,3,0,0,1,0
+JOB_448,Data Scientist,Deloitte,Product-Based,Delhi,Maharashtra,BCA,2023,"AWS, Linux, Python",Java,1,0,0,Full-Time,10.52,8000,3,0,1,1,1
+JOB_449,Business Analyst,Accenture,Product-Based,Pune,Uttar Pradesh,MCA,2024,"Machine Learning, Python, Linux",Power BI,1,1,0,Full-Time,4.88,8000,5,1,1,3,0
+JOB_450,Business Analyst,Wipro,Startup,Chennai,Uttar Pradesh,B.Tech,2023,"SQL, Machine Learning, Linux",Linux,1,0,0,Internship,3.42,0,5,1,0,1,1
+JOB_451,Cloud Engineer,Accenture,Service-Based,Noida,Delhi,BCA,2023,"SQL, Java, AWS",Excel,0,1,0,Full-Time,8.89,0,2,0,0,2,1
+JOB_452,Data Analyst,Wipro,Product-Based,Hyderabad,Karnataka,B.Sc,2025,"Excel, Machine Learning, Power BI",Excel,0,1,1,Full-Time,5.79,15000,5,1,1,1,1
+JOB_453,Business Analyst,Startup,Product-Based,Noida,Maharashtra,B.Sc,2025,"AWS, Power BI, SQL",AWS,0,0,0,Full-Time,5.12,12000,3,0,0,2,1
+JOB_454,Web Developer,Deloitte,Product-Based,Hyderabad,Tamil Nadu,B.Tech,2025,"SQL, Python, Excel",Linux,1,0,0,Full-Time,7.53,15000,5,1,1,2,1
+JOB_455,Data Analyst,Wipro,Startup,Bangalore,Tamil Nadu,M.Tech,2023,"Excel, AWS, Power BI",Machine Learning,0,0,0,Full-Time,3.56,0,2,0,0,1,0
+JOB_456,Cybersecurity Analyst,TCS,MNC,Hyderabad,Delhi,M.Tech,2024,"Power BI, Machine Learning, Python",AWS,1,0,0,Internship,7.46,8000,2,0,1,3,0
+JOB_457,Cybersecurity Analyst,Infosys,MNC,Chennai,Maharashtra,MCA,2025,"Machine Learning, AWS, Power BI",Power BI,1,1,0,Full-Time,5.06,12000,5,0,1,1,1
+JOB_458,Cybersecurity Analyst,Deloitte,Startup,Noida,Karnataka,MCA,2023,"AWS, Power BI, SQL",SQL,0,1,0,Internship,7.34,10000,3,0,1,1,0
+JOB_459,Software Engineer,Capgemini,Service-Based,Hyderabad,Tamil Nadu,B.Tech,2023,"Python, AWS, Java",SQL,1,1,1,Full-Time,3.28,8000,2,0,1,3,0
+JOB_460,Business Analyst,Infosys,Product-Based,Pune,Tamil Nadu,BCA,2025,"AWS, Linux, SQL",Python,0,1,0,Full-Time,3.59,8000,5,0,1,2,1
+JOB_461,Cloud Engineer,TCS,MNC,Pune,Tamil Nadu,M.Tech,2024,"Python, AWS, SQL",SQL,0,0,0,Internship,5.59,12000,4,1,1,1,0
+JOB_462,Data Analyst,Infosys,MNC,Chennai,Uttar Pradesh,M.Tech,2025,"Java, Linux, Power BI",Linux,1,1,0,Full-Time,6.25,0,2,1,1,3,1
+JOB_463,Web Developer,Infosys,Service-Based,Kolkata,Karnataka,BCA,2025,"Python, AWS, Java",Excel,0,0,0,Internship,6.73,10000,2,0,1,3,1
+JOB_464,Cloud Engineer,Startup,Startup,Noida,West Bengal,BCA,2024,"SQL, Power BI, Linux",Python,0,1,1,Internship,7.92,10000,2,0,1,2,1
+JOB_465,Web Developer,Deloitte,Startup,Delhi,Uttar Pradesh,B.Com,2023,"SQL, Power BI, Excel",Excel,0,1,1,Internship,7.81,15000,4,1,1,2,0
+JOB_466,Software Engineer,Cognizant,Product-Based,Pune,Telangana,M.Tech,2025,"Excel, Java, Python",AWS,0,1,0,Full-Time,4.87,0,3,0,1,3,1
+JOB_467,Cybersecurity Analyst,Deloitte,Service-Based,Pune,Delhi,B.Tech,2025,"Excel, Python, AWS",Excel,1,0,1,Full-Time,6.43,8000,2,1,0,1,0
+JOB_468,Web Developer,TCS,Product-Based,Chennai,Delhi,MCA,2025,"Linux, Power BI, Machine Learning",Python,0,1,0,Full-Time,7.34,10000,5,0,0,3,1
+JOB_469,Data Analyst,Startup,Startup,Pune,Delhi,BCA,2024,"AWS, SQL, Java",AWS,1,0,0,Full-Time,4.12,10000,5,0,0,2,1
+JOB_470,Software Engineer,Startup,MNC,Kolkata,Telangana,MCA,2023,"SQL, Power BI, Python",AWS,1,1,0,Full-Time,7.82,10000,3,0,1,1,0
+JOB_471,Web Developer,Cognizant,Service-Based,Delhi,Telangana,B.Tech,2025,"Power BI, Machine Learning, Excel",Power BI,0,1,1,Internship,3.06,15000,5,1,0,1,1
+JOB_472,Data Analyst,Capgemini,Product-Based,Mumbai,Maharashtra,M.Tech,2024,"Power BI, SQL, Java",AWS,1,1,0,Internship,7.85,15000,4,0,0,1,0
+JOB_473,Cybersecurity Analyst,Deloitte,Startup,Pune,Telangana,M.Tech,2023,"Power BI, Java, Python",Python,0,1,1,Full-Time,5.22,8000,4,0,1,2,0
+JOB_474,Cloud Engineer,Deloitte,MNC,Kolkata,Telangana,B.Sc,2025,"Excel, Linux, AWS",SQL,0,0,0,Full-Time,9.46,10000,5,1,0,3,1
+JOB_475,Software Engineer,Startup,Product-Based,Delhi,West Bengal,B.Tech,2024,"AWS, Java, SQL",SQL,1,1,1,Full-Time,5.64,8000,2,0,1,1,0
+JOB_476,Web Developer,Cognizant,MNC,Mumbai,Karnataka,M.Tech,2024,"Linux, SQL, Excel",Python,0,1,0,Full-Time,7.96,12000,5,0,0,3,0
+JOB_477,Cybersecurity Analyst,Wipro,Service-Based,Delhi,West Bengal,MCA,2023,"Python, Java, SQL",Power BI,1,0,0,Full-Time,5.37,12000,2,0,0,3,1
+JOB_478,Data Scientist,Startup,Product-Based,Noida,Telangana,M.Tech,2025,"SQL, Java, Linux",Linux,1,0,1,Internship,9.32,12000,3,0,1,2,1
+JOB_479,Data Analyst,Accenture,MNC,Kolkata,Maharashtra,B.Com,2023,"SQL, Excel, AWS",Power BI,0,0,1,Internship,7.85,8000,4,0,0,1,1
+JOB_480,Cloud Engineer,Wipro,Startup,Chennai,Telangana,M.Tech,2023,"AWS, Linux, Excel",Power BI,0,1,1,Full-Time,7.62,0,4,1,0,1,1
+JOB_481,Data Scientist,Infosys,Product-Based,Chennai,Maharashtra,B.Com,2024,"Machine Learning, Excel, Linux",Linux,0,0,1,Full-Time,9.78,15000,3,1,0,2,0
+JOB_482,Data Scientist,Infosys,Startup,Hyderabad,Uttar Pradesh,BCA,2023,"Python, Power BI, Linux",Python,1,1,1,Internship,10.17,15000,4,1,1,2,1
+JOB_483,Data Scientist,Startup,Startup,Noida,West Bengal,B.Sc,2023,"Power BI, SQL, Java",Java,0,0,0,Internship,8.73,15000,3,0,0,2,0
+JOB_484,Cybersecurity Analyst,Wipro,MNC,Hyderabad,Tamil Nadu,B.Tech,2025,"Machine Learning, Java, Power BI",Python,0,0,1,Internship,8.14,10000,5,0,0,2,0
+JOB_485,Business Analyst,Deloitte,Product-Based,Chennai,Uttar Pradesh,BCA,2024,"Python, Machine Learning, AWS",Linux,0,0,0,Full-Time,5.92,12000,4,1,0,3,1
+JOB_486,Business Analyst,Deloitte,Service-Based,Noida,Uttar Pradesh,B.Sc,2024,"Java, Excel, Power BI",SQL,1,0,1,Internship,7.51,8000,4,0,0,1,1
+JOB_487,Cybersecurity Analyst,Deloitte,Service-Based,Chennai,Maharashtra,B.Tech,2024,"Java, Excel, SQL",Linux,1,0,1,Internship,5.23,0,3,1,1,3,1
+JOB_488,Data Scientist,TCS,Service-Based,Chennai,Tamil Nadu,B.Sc,2025,"SQL, AWS, Java",Linux,1,0,1,Internship,7.69,0,4,1,0,2,0
+JOB_489,Web Developer,Wipro,Service-Based,Delhi,Karnataka,M.Tech,2025,"Machine Learning, Linux, Excel",SQL,0,1,1,Full-Time,7.75,8000,4,1,1,3,1
+JOB_490,Web Developer,Cognizant,MNC,Noida,Delhi,B.Com,2025,"Power BI, Machine Learning, Java",SQL,1,0,0,Full-Time,7.45,10000,4,1,1,3,0
+JOB_491,Business Analyst,Cognizant,Service-Based,Mumbai,West Bengal,MCA,2024,"Linux, Machine Learning, Python",Machine Learning,0,0,0,Full-Time,5.28,10000,3,0,1,2,0
+JOB_492,Software Engineer,Wipro,Startup,Noida,Maharashtra,BCA,2024,"Machine Learning, AWS, Power BI",Python,0,0,1,Full-Time,6.1,8000,3,1,1,2,0
+JOB_493,Cybersecurity Analyst,Wipro,Product-Based,Chennai,Tamil Nadu,MCA,2023,"Machine Learning, Linux, Java",SQL,0,0,1,Full-Time,6.39,8000,3,1,0,2,0
+JOB_494,Software Engineer,Deloitte,Service-Based,Pune,West Bengal,B.Sc,2024,"AWS, Python, Excel",Python,1,0,0,Internship,3.94,15000,4,0,1,2,0
+JOB_495,Data Analyst,Accenture,MNC,Bangalore,West Bengal,B.Tech,2025,"Power BI, Machine Learning, Java",Java,1,0,1,Full-Time,5.32,8000,3,0,1,1,1
+JOB_496,Cloud Engineer,Wipro,Product-Based,Bangalore,Telangana,M.Tech,2024,"Excel, Python, AWS",Power BI,0,0,1,Internship,6.77,10000,2,0,0,2,0
+JOB_497,Business Analyst,Cognizant,MNC,Kolkata,West Bengal,B.Tech,2023,"Machine Learning, Java, Linux",Java,0,1,1,Full-Time,5.92,8000,2,0,0,3,1
+JOB_498,Data Scientist,Startup,Service-Based,Noida,Delhi,B.Sc,2024,"Excel, AWS, Python",Excel,0,1,1,Full-Time,6.47,8000,4,1,0,3,0
+JOB_499,Business Analyst,Accenture,MNC,Mumbai,West Bengal,M.Tech,2023,"SQL, Java, Machine Learning",AWS,0,0,1,Internship,7.87,8000,3,0,0,3,1
+JOB_500,Cybersecurity Analyst,Wipro,Service-Based,Delhi,Maharashtra,B.Tech,2023,"Linux, AWS, Java",Excel,0,0,0,Internship,9.93,8000,5,0,1,2,1
